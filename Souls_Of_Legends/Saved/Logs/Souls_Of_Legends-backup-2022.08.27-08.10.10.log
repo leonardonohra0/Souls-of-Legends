@@ -1,0 +1,1610 @@
+﻿Log file open, 08/27/22 10:09:38
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: Souls_Of_Legends
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.286476
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin SteamVR
+LogXGEController: Cleaning working directory: C:/Users/leo_n/AppData/Local/Temp/UnrealXGEWorkingDir/
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.26-CL-15973114
+LogInit: Engine Version: 4.26.2-15973114+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i5-10400F CPU @ 2.90GHz, GPU: NVIDIA GeForce RTX 3050
+LogInit: Compiled (64-bit): Apr 12 2021 06:14:10
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line: 
+LogInit: Base Directory: D:/Epic Games/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Unreal Projects/Souls of Legends/Souls-of-Legends/Souls_Of_Legends/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2022.08.27-08.09.38:515][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2022.08.27-08.09.38:515][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2022.08.27-08.09.38:515][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/Unreal Projects/Souls of Legends/Souls-of-Legends/Souls_Of_Legends/Saved/Config/Windows/Engine.ini]
+[2022.08.27-08.09.38:515][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2022.08.27-08.09.38:515][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/Unreal Projects/Souls of Legends/Souls-of-Legends/Souls_Of_Legends/Saved/Config/Windows/Engine.ini]
+[2022.08.27-08.09.38:515][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Unreal Projects/Souls of Legends/Souls-of-Legends/Souls_Of_Legends/Saved/Config/Windows/Engine.ini]
+[2022.08.27-08.09.38:515][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2022.08.27-08.09.38:515][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2022.08.27-08.09.38:515][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2022.08.27-08.09.38:515][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2022.08.27-08.09.38:515][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2022.08.27-08.09.38:515][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2022.08.27-08.09.38:515][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2022.08.27-08.09.38:515][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2022.08.27-08.09.38:515][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2022.08.27-08.09.38:515][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2022.08.27-08.09.38:515][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2022.08.27-08.09.38:515][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2022.08.27-08.09.38:515][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2022.08.27-08.09.38:515][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2022.08.27-08.09.38:515][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/Unreal Projects/Souls of Legends/Souls-of-Legends/Souls_Of_Legends/Saved/Config/Windows/Engine.ini]
+[2022.08.27-08.09.38:515][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2022.08.27-08.09.38:515][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2022.08.27-08.09.38:515][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2022.08.27-08.09.38:515][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2022.08.27-08.09.38:516][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2022.08.27-08.09.38:516][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2022.08.27-08.09.38:516][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2022.08.27-08.09.38:516][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2022.08.27-08.09.38:516][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2022.08.27-08.09.38:516][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2022.08.27-08.09.38:516][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2022.08.27-08.09.38:516][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2022.08.27-08.09.38:516][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2022.08.27-08.09.38:516][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2022.08.27-08.09.38:516][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/Unreal Projects/Souls of Legends/Souls-of-Legends/Souls_Of_Legends/Saved/Config/Windows/Engine.ini]
+[2022.08.27-08.09.38:516][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/Unreal Projects/Souls of Legends/Souls-of-Legends/Souls_Of_Legends/Saved/Config/Windows/Engine.ini]
+[2022.08.27-08.09.38:520][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Unreal Projects/Souls of Legends/Souls-of-Legends/Souls_Of_Legends/Saved/Config/Windows/Scalability.ini]
+[2022.08.27-08.09.38:520][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.08.27-08.09.38:520][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.08.27-08.09.38:520][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Unreal Projects/Souls of Legends/Souls-of-Legends/Souls_Of_Legends/Saved/Config/Windows/Scalability.ini]
+[2022.08.27-08.09.38:520][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.08.27-08.09.38:520][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Unreal Projects/Souls of Legends/Souls-of-Legends/Souls_Of_Legends/Saved/Config/Windows/Scalability.ini]
+[2022.08.27-08.09.38:521][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.08.27-08.09.38:521][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.08.27-08.09.38:521][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.08.27-08.09.38:521][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.08.27-08.09.38:521][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.08.27-08.09.38:521][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.08.27-08.09.38:521][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.08.27-08.09.38:521][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.08.27-08.09.38:521][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.08.27-08.09.38:521][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.08.27-08.09.38:521][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.08.27-08.09.38:521][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.08.27-08.09.38:521][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.08.27-08.09.38:521][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.08.27-08.09.38:521][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.08.27-08.09.38:521][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.08.27-08.09.38:521][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.08.27-08.09.38:521][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.08.27-08.09.38:521][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Unreal Projects/Souls of Legends/Souls-of-Legends/Souls_Of_Legends/Saved/Config/Windows/Scalability.ini]
+[2022.08.27-08.09.38:521][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.08.27-08.09.38:521][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.08.27-08.09.38:521][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.08.27-08.09.38:521][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.08.27-08.09.38:521][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.08.27-08.09.38:521][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.08.27-08.09.38:521][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.08.27-08.09.38:521][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.08.27-08.09.38:521][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.08.27-08.09.38:521][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.08.27-08.09.38:521][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.08.27-08.09.38:521][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.08.27-08.09.38:521][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.08.27-08.09.38:521][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.08.27-08.09.38:521][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.08.27-08.09.38:521][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.08.27-08.09.38:521][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.08.27-08.09.38:521][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.08.27-08.09.38:521][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.08.27-08.09.38:521][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.08.27-08.09.38:521][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.08.27-08.09.38:521][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.08.27-08.09.38:521][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.08.27-08.09.38:521][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.08.27-08.09.38:521][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.08.27-08.09.38:521][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.08.27-08.09.38:521][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.08.27-08.09.38:521][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.08.27-08.09.38:521][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.08.27-08.09.38:521][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.08.27-08.09.38:521][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Unreal Projects/Souls of Legends/Souls-of-Legends/Souls_Of_Legends/Saved/Config/Windows/Scalability.ini]
+[2022.08.27-08.09.38:521][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.08.27-08.09.38:521][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.08.27-08.09.38:521][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.08.27-08.09.38:521][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.08.27-08.09.38:521][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.08.27-08.09.38:521][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.08.27-08.09.38:521][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.08.27-08.09.38:521][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.08.27-08.09.38:521][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.08.27-08.09.38:521][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Unreal Projects/Souls of Legends/Souls-of-Legends/Souls_Of_Legends/Saved/Config/Windows/Scalability.ini]
+[2022.08.27-08.09.38:521][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.08.27-08.09.38:521][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.08.27-08.09.38:521][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.08.27-08.09.38:521][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.08.27-08.09.38:521][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.08.27-08.09.38:521][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.08.27-08.09.38:521][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.08.27-08.09.38:521][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.08.27-08.09.38:521][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.08.27-08.09.38:521][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.08.27-08.09.38:521][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.08.27-08.09.38:521][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.08.27-08.09.38:521][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.08.27-08.09.38:521][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.08.27-08.09.38:521][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.08.27-08.09.38:521][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.08.27-08.09.38:521][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.08.27-08.09.38:521][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.08.27-08.09.38:521][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.08.27-08.09.38:521][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.08.27-08.09.38:521][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.08.27-08.09.38:521][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.08.27-08.09.38:521][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.08.27-08.09.38:521][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.08.27-08.09.38:521][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.08.27-08.09.38:521][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.08.27-08.09.38:521][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.08.27-08.09.38:521][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Unreal Projects/Souls of Legends/Souls-of-Legends/Souls_Of_Legends/Saved/Config/Windows/Scalability.ini]
+[2022.08.27-08.09.38:521][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.08.27-08.09.38:521][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.08.27-08.09.38:521][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/Unreal Projects/Souls of Legends/Souls-of-Legends/Souls_Of_Legends/Saved/Config/Windows/Scalability.ini]
+[2022.08.27-08.09.38:521][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.08.27-08.09.38:521][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.08.27-08.09.38:521][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.08.27-08.09.38:521][  0]LogInit: Selected Device Profile: [Windows]
+[2022.08.27-08.09.38:521][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2022.08.27-08.09.38:521][  0]LogHAL: Display: Platform has ~ 16 GB [17086439424 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.08.27-08.09.38:521][  0]LogInit: Going up to parent DeviceProfile []
+[2022.08.27-08.09.38:522][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Unreal Projects/Souls of Legends/Souls-of-Legends/Souls_Of_Legends/Saved/Config/Windows/Scalability.ini]
+[2022.08.27-08.09.38:522][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.08.27-08.09.38:522][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.08.27-08.09.38:522][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Unreal Projects/Souls of Legends/Souls-of-Legends/Souls_Of_Legends/Saved/Config/Windows/Scalability.ini]
+[2022.08.27-08.09.38:522][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.08.27-08.09.38:522][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Unreal Projects/Souls of Legends/Souls-of-Legends/Souls_Of_Legends/Saved/Config/Windows/Scalability.ini]
+[2022.08.27-08.09.38:522][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.08.27-08.09.38:522][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.08.27-08.09.38:522][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.08.27-08.09.38:522][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.08.27-08.09.38:522][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.08.27-08.09.38:522][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.08.27-08.09.38:522][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.08.27-08.09.38:522][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.08.27-08.09.38:522][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.08.27-08.09.38:522][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.08.27-08.09.38:522][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.08.27-08.09.38:522][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.08.27-08.09.38:522][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.08.27-08.09.38:522][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.08.27-08.09.38:522][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.08.27-08.09.38:522][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.08.27-08.09.38:522][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.08.27-08.09.38:522][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.08.27-08.09.38:522][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Unreal Projects/Souls of Legends/Souls-of-Legends/Souls_Of_Legends/Saved/Config/Windows/Scalability.ini]
+[2022.08.27-08.09.38:522][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.08.27-08.09.38:522][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.08.27-08.09.38:522][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.08.27-08.09.38:522][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.08.27-08.09.38:522][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.08.27-08.09.38:522][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.08.27-08.09.38:522][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.08.27-08.09.38:522][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.08.27-08.09.38:522][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.08.27-08.09.38:522][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.08.27-08.09.38:522][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.08.27-08.09.38:522][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.08.27-08.09.38:522][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.08.27-08.09.38:522][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.08.27-08.09.38:522][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.08.27-08.09.38:522][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.08.27-08.09.38:522][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.08.27-08.09.38:522][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.08.27-08.09.38:522][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.08.27-08.09.38:522][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.08.27-08.09.38:522][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.08.27-08.09.38:522][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.08.27-08.09.38:522][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.08.27-08.09.38:522][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.08.27-08.09.38:522][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.08.27-08.09.38:522][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.08.27-08.09.38:522][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.08.27-08.09.38:522][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.08.27-08.09.38:522][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.08.27-08.09.38:522][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.08.27-08.09.38:522][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Unreal Projects/Souls of Legends/Souls-of-Legends/Souls_Of_Legends/Saved/Config/Windows/Scalability.ini]
+[2022.08.27-08.09.38:522][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.08.27-08.09.38:522][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.08.27-08.09.38:522][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.08.27-08.09.38:522][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.08.27-08.09.38:522][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.08.27-08.09.38:522][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.08.27-08.09.38:522][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.08.27-08.09.38:522][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.08.27-08.09.38:522][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.08.27-08.09.38:522][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Unreal Projects/Souls of Legends/Souls-of-Legends/Souls_Of_Legends/Saved/Config/Windows/Scalability.ini]
+[2022.08.27-08.09.38:522][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.08.27-08.09.38:522][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.08.27-08.09.38:522][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.08.27-08.09.38:522][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.08.27-08.09.38:522][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.08.27-08.09.38:522][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.08.27-08.09.38:522][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.08.27-08.09.38:522][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.08.27-08.09.38:522][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.08.27-08.09.38:522][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.08.27-08.09.38:522][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.08.27-08.09.38:522][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.08.27-08.09.38:522][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.08.27-08.09.38:522][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.08.27-08.09.38:522][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.08.27-08.09.38:522][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.08.27-08.09.38:522][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.08.27-08.09.38:522][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.08.27-08.09.38:522][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.08.27-08.09.38:522][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.08.27-08.09.38:522][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.08.27-08.09.38:522][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.08.27-08.09.38:522][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.08.27-08.09.38:522][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.08.27-08.09.38:522][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.08.27-08.09.38:522][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.08.27-08.09.38:522][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.08.27-08.09.38:522][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Unreal Projects/Souls of Legends/Souls-of-Legends/Souls_Of_Legends/Saved/Config/Windows/Scalability.ini]
+[2022.08.27-08.09.38:522][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.08.27-08.09.38:522][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.08.27-08.09.38:522][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/Unreal Projects/Souls of Legends/Souls-of-Legends/Souls_Of_Legends/Saved/Config/Windows/Scalability.ini]
+[2022.08.27-08.09.38:522][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.08.27-08.09.38:522][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.08.27-08.09.38:522][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.08.27-08.09.38:522][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.08.27-08.09.38:523][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2022.08.27-08.09.38:523][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2022.08.27-08.09.38:523][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2022.08.27-08.09.38:523][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Unreal Projects/Souls of Legends/Souls-of-Legends/Souls_Of_Legends/Saved/Config/Windows/Engine.ini]
+[2022.08.27-08.09.38:523][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Unreal Projects/Souls of Legends/Souls-of-Legends/Souls_Of_Legends/Saved/Config/Windows/Editor.ini]
+[2022.08.27-08.09.38:523][  0]LogInit: Computer: DESKTOP-5CSNBMS
+[2022.08.27-08.09.38:523][  0]LogInit: User: leon
+[2022.08.27-08.09.38:523][  0]LogInit: CPU Page size=4096, Cores=6
+[2022.08.27-08.09.38:523][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.08.27-08.09.38:523][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2022.08.27-08.09.38:523][  0]LogMemory: Platform Memory Stats for Windows
+[2022.08.27-08.09.38:523][  0]LogMemory: Process Physical Memory: 138.52 MB used, 138.52 MB peak
+[2022.08.27-08.09.38:523][  0]LogMemory: Process Virtual Memory: 118.32 MB used, 118.32 MB peak
+[2022.08.27-08.09.38:523][  0]LogMemory: Physical Memory: 5906.02 MB used,  10388.88 MB free, 16294.90 MB total
+[2022.08.27-08.09.38:523][  0]LogMemory: Virtual Memory: 134206712.00 MB used,  11017.59 MB free, 134217728.00 MB total
+[2022.08.27-08.09.38:527][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.08.27-08.09.38:562][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2022.08.27-08.09.38:563][  0]LogInit: Using OS detected language (en-US).
+[2022.08.27-08.09.38:563][  0]LogInit: Using OS detected locale (en-US).
+[2022.08.27-08.09.38:565][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2022.08.27-08.09.38:715][  0]LogInit: Setting process to per monitor DPI aware
+[2022.08.27-08.09.38:722][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.08.27-08.09.38:732][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.08.27-08.09.38:732][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.08.27-08.09.38:827][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.08.27-08.09.38:827][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2022.08.27-08.09.38:827][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2022.08.27-08.09.38:827][  0]LogD3D11RHI: D3D11 adapters:
+[2022.08.27-08.09.38:917][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 3050' (Feature Level 11_0)
+[2022.08.27-08.09.38:917][  0]LogD3D11RHI:       8070/0/8147 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2022.08.27-08.09.38:919][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2022.08.27-08.09.38:919][  0]LogD3D11RHI:       0/0/8147 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2022.08.27-08.09.38:919][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2022.08.27-08.09.38:923][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2022.08.27-08.09.38:923][  0]LogD3D11RHI:     GPU DeviceId: 0x2507 (for the marketing name, search the web for "GPU Device Id")
+[2022.08.27-08.09.38:923][  0]LogWindows: EnumDisplayDevices:
+[2022.08.27-08.09.38:923][  0]LogWindows:    0. 'NVIDIA GeForce RTX 3050' (P:1 D:1)
+[2022.08.27-08.09.38:923][  0]LogWindows:    1. 'NVIDIA GeForce RTX 3050' (P:0 D:0)
+[2022.08.27-08.09.38:923][  0]LogWindows:    2. 'NVIDIA GeForce RTX 3050' (P:0 D:0)
+[2022.08.27-08.09.38:923][  0]LogWindows:    3. 'NVIDIA GeForce RTX 3050' (P:0 D:0)
+[2022.08.27-08.09.38:924][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2022.08.27-08.09.38:924][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 3050
+[2022.08.27-08.09.38:924][  0]LogD3D11RHI:   Driver Version: 516.94 (internal:31.0.15.1694, unified:516.94)
+[2022.08.27-08.09.38:924][  0]LogD3D11RHI:      Driver Date: 7-21-2022
+[2022.08.27-08.09.38:924][  0]LogRHI: Texture pool is 5649 MB (70% of 8070 MB)
+[2022.08.27-08.09.38:968][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2022.08.27-08.09.38:968][  0]LogD3D11RHI: Async texture creation enabled
+[2022.08.27-08.09.38:968][  0]LogD3D11RHI: Array index from any shader is supported
+[2022.08.27-08.09.38:991][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2022.08.27-08.09.38:992][  0]LogRHI: GeForceNow SDK initialized: 1
+[2022.08.27-08.09.39:245][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2022.08.27-08.09.39:261][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.08.27-08.09.39:261][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.08.27-08.09.39:261][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.08.27-08.09.39:261][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.08.27-08.09.39:261][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.08.27-08.09.39:261][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.08.27-08.09.39:261][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.08.27-08.09.39:261][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.08.27-08.09.39:261][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.08.27-08.09.39:261][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.08.27-08.09.39:279][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.08.27-08.09.39:279][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.08.27-08.09.39:286][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.08.27-08.09.39:293][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2022.08.27-08.09.39:299][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.08.27-08.09.39:306][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.08.27-08.09.39:313][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2022.08.27-08.09.39:320][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2022.08.27-08.09.39:327][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2022.08.27-08.09.39:343][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2022.08.27-08.09.39:343][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2022.08.27-08.09.39:351][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2022.08.27-08.09.39:358][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2022.08.27-08.09.39:365][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2022.08.27-08.09.39:372][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2022.08.27-08.09.39:383][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.08.27-08.09.39:383][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.08.27-08.09.39:390][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2022.08.27-08.09.39:397][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.08.27-08.09.39:403][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.08.27-08.09.39:410][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.08.27-08.09.39:410][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2022.08.27-08.09.39:417][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.08.27-08.09.39:466][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.08.27-08.09.39:467][  0]LogShaderCompilers: Guid format shader working directory is -36 characters bigger than the processId version (../../../../../Unreal Projects/Souls of Legends/Souls-of-Legends/Souls_Of_Legends/Intermediate/Shaders/WorkingDirectory/16504/).
+[2022.08.27-08.09.39:467][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/leo_n/AppData/Local/Temp/UnrealShaderWorkingDir/D2374C404F25F9F02D0622B7F310C178/'.
+[2022.08.27-08.09.39:467][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2022.08.27-08.09.39:467][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2022.08.27-08.09.40:328][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2022.08.27-08.09.40:379][  0]LogDerivedDataCache: Loaded boot cache 0.05s 77MB C:/Users/leo_n/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2022.08.27-08.09.40:379][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/leo_n/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2022.08.27-08.09.40:380][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Unreal Projects/Souls of Legends/Souls-of-Legends/Souls_Of_Legends/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.08.27-08.09.40:380][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2022.08.27-08.09.40:380][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Unreal Projects/Souls of Legends/Souls-of-Legends/Souls_Of_Legends/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.08.27-08.09.40:380][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2022.08.27-08.09.40:390][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2022.08.27-08.09.40:390][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.08.27-08.09.40:390][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2022.08.27-08.09.40:413][  0]LogDerivedDataCache: Speed tests for C:/Users/leo_n/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.02 seconds
+[2022.08.27-08.09.40:413][  0]LogDerivedDataCache: Display: Performance to C:/Users/leo_n/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.02ms. RandomReadSpeed=1259.91MBs, RandomWriteSpeed=42.43MBs. Assigned SpeedClass 'Local'
+[2022.08.27-08.09.40:414][  0]LogDerivedDataCache: Using Local data cache path C:/Users/leo_n/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.08.27-08.09.40:414][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.08.27-08.09.40:414][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2022.08.27-08.09.40:461][  0]LogSlate: Using FreeType 2.10.0
+[2022.08.27-08.09.40:461][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.08.27-08.09.40:480][  0]LogAssetRegistry: FAssetRegistry took 0.0020 seconds to start up
+[2022.08.27-08.09.40:669][  0]LogInit: Selected Device Profile: [Windows]
+[2022.08.27-08.09.40:669][  0]LogInit: Active device profile: [0000027637BAB600][0000027636D19480 49] Windows
+[2022.08.27-08.09.40:669][  0]LogInit: Profiles: [0000027637BAB600][0000027636D19480 49] Windows, [0000027637B70C00][0000027636D1D5C0 49] WindowsNoEditor, [0000027637BA8E00][0000027636D21700 49] WindowsServer, [0000027637B72F00][0000027636D25840 49] WindowsClient, [0000027637BAB000][0000027636D29980 49] IOS, [0000027637B71200][0000027636D31B00 49] iPadAir, [0000027637BA9300][0000027636D45C80 49] iPadAir2, [0000027637A94C00][0000027636D5E280 49] IPadPro, [0000027637A94D00][0000027636D5A2C0 49] iPadAir3, [0000027637BAAB00][0000027636D6A440 49] iPadAir4, [0000027637A97900][0000027636D7E5C0 49] iPadMini2, [0000027637BA9600][0000027636DCA740 49] iPadMini3, [0000027637A96000][0000027636DDA8C0 49] iPadMini4, [0000027637BAB700][0000027636E02A40 49] iPadMini5, [0000027637B73100][0000027636E46D00 49] iPhone6, [0000027637B73200][0000027636E06D40 49] iPodTouch6, [0000027637A97B00][000002761A14B000 49] iPhone7, [00000276377EFF00][000002761A13F040 49] iPodTouch7, [0000027637B72600][000002761A15B1C0 49] iPhone5S, [00000276377ED100][0000027637EA9340 49] iPhone6Plus, [0000027637B71000][0000027637F414C0 49] iPhone6S, [00000276377EEA00][0000027637F5D640 49] iPhone6SPlus, [0000027637B72400][0000027636D2D780 49] iPhone7Plus, [00000276377ED600][0000027637F618C0 49] iPhoneSE, [0000027637B70A00][0000027637F65A00 49] iPhone8, [00000276377EFB00][0000027637F71B80 49] iPhone8Plus, [0000027637B70500][0000027637F75D00 49] iPhoneX, [00000276377EF000][0000027637F781C0 49] iPhoneXS, [0000027637B72C00][0000027637F80340 49] iPhoneXSMax, [00000276377ECE00][0000027637F8A4C0 49] iPhoneXR, [0000027637B72900][0000027637F8E640 49] iPhone11, [00000276377ED000][0000027637F927C0 49] iPhone11Pro, [0000027637B73900][0000027637FA2940 49] iPhone11ProMax, [00000276377ECA00][0000027637FA6AC0 49] iPhoneSE2, [0000027637B70100][0000027637FAAC40 49] iPhone12Mini, [00000276377ED400][0000027637FAEDC0 49] iPhone12, [0000027637B70F00][0000027637FB2F40 49] iPhone12Pro, [00000276377EE800][0000027637FB70C0 49] iPhone12ProMax, [0000027637B71300][0000027637FBB240 49] iPadPro105, [00000276377EDF00][0000027637FBF3C0 49] iPadPro129, [0000027637B72100][0000027637FC3540 49] iPadPro97, [00000276377ED200][0000027637FC76C0 49] iPadPro2_129, [0000027637B72500][0000027637F6D800 49] iPad5, [00000276377EEE00][0000027637FCB940 49] iPad6, [0000027637B71900][0000027637FCFA80 49] iPad7, [00000276377ED500][0000027637FD7C00 49] iPad8, [0000027637B70E00][0000027637FDA0C0 49] iPadPro11, [00000276377EFA00][0000027637FDE240 49] iPadPro2_11, [0000027637B73F00][0000027637FE23C0 49] iPadPro3_129, [00000276377EC800][0000027637FE6540 49] iPadPro4_129, [0000027637B71F00][0000027637FEA6C0 49] AppleTV, [00000276377EF900][0000027637FEE840 49] AppleTV4K, [0000027637B73C00][0000027637FF29C0 49] TVOS, [00000276377EE300][0000027637FF6B40 49] Mac, [0000027637B70B00][0000027638026CC0 49] MacClient, [00000276377EF700][000002763802AE40 49] MacNoEditor, [0000027637B73B00][000002763802EFC0 49] MacServer, [00000276377ED300][0000027638033140 49] Linux, [0000027637B71B00][00000276380372C0 49] LinuxAArch64, [00000276377EE100][000002763803B440 49] LinuxNoEditor, [0000027637B73300][000002763803F5C0 49] LinuxAArch64NoEditor, [00000276377EE600][0000027638043740 49] LinuxClient, [00000276377EC100][0000027637FD3880 49] LinuxAArch64Client, [0000027637A96E00][00000276380479C0 49] LinuxServer, [0000027637BEC100][000002763804BB00 49] LinuxAArch64Server, [0000027637A94700][000002763804FC40 49] Android, [0000027637BECC00][0000027638056100 49] Android_Low, [0000027637A97300][000002763805A280 49] Android_Mid, [0000027637BED000][000002763809A400 49] Android_High, [0000027637A94800][000002763809E580 49] Android_Default, [0000027637BEC200][00000276380A2700 49] Android_Adreno4xx, [0000027637A95400][00000276380A6880 49] Android_Adreno5xx_Low, [0000027637BEC900][00000276380AAA00 49] Android_Adreno5xx, [0000027637A94E00][00000276380AEB80 49] Android_Adreno6xx, [0000027637BECD00][00000276380B2D00 49] Android_Adreno6xx_Vulkan, [0000027637A95200][00000276380B6E80 49] Android_Mali_T6xx, [0000027637BEC700][00000276380BB000 49] Android_Mali_T7xx, [0000027637A96400][00000276380BF180 49] Android_Mali_T8xx, [0000027637BEC300][00000276380C3300 49] Android_Mali_G71, [0000027637A95900][00000276380C7480 49] Android_Mali_G72, [0000027637BEC500][00000276380CB600 49] Android_Mali_G72_Vulkan, [0000027637A96B00][00000276380CF780 49] Android_Mali_G76, [0000027637BED800][00000276380538C0 49] Android_Mali_G76_Vulkan, [0000027637A96300][00000276380D3A00 49] Android_Mali_G77, [00000276377ED800][00000276380D7B40 49] Android_Mali_G77_Vulkan, [0000027637B70600][00000276380DBC80 49] Android_Vulkan_SM5, [00000276377EEF00][00000276380E2140 49] Android_PowerVR_G6xxx, [0000027637B71400][00000276380E62C0 49] Android_PowerVR_GT7xxx, [00000276377EFE00][00000276380EA440 49] Android_PowerVR_GE8xxx, [0000027637B72B00][00000276380EE5C0 49] Android_PowerVR_GM9xxx, [00000276377EFC00][00000276380F2740 49] Android_PowerVR_GM9xxx_Vulkan, [0000027637B70900][00000276380F68C0 49] Android_TegraK1, [00000276377EF600][00000276380FAA40 49] Android_Unknown_Vulkan, [0000027637B72D00][00000276380FEBC0 49] Lumin, [00000276377EF200][0000027638102D40 49] Lumin_Desktop, [0000027637B73A00][0000027638106EC0 49] HoloLens, 
+[2022.08.27-08.09.40:883][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.08.27-08.09.40:883][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.08.27-08.09.40:883][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.08.27-08.09.40:883][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.08.27-08.09.40:883][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.08.27-08.09.40:894][  0]LogNetVersion: Souls_Of_Legends 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 3741100860)
+[2022.08.27-08.09.41:227][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2022.08.27-08.09.41:249][  0]LogPackageLocalizationCache: Processed 22 localized package path(s) for 1 prioritized culture(s) in 0.021387 seconds
+[2022.08.27-08.09.41:254][  0]LogUObjectArray: 16831 objects as part of root set at end of initial load.
+[2022.08.27-08.09.41:254][  0]LogUObjectAllocator: 4209728 out of 0 bytes used by permanent object pool.
+[2022.08.27-08.09.41:254][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.08.27-08.09.41:555][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.08.27-08.09.41:560][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.08.27-08.09.41:849][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.08.27-08.09.41:866][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.08.27-08.09.41:866][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.08.27-08.09.41:915][  0]SourceControl: Source control is disabled
+[2022.08.27-08.09.41:915][  0]SourceControl: Source control is disabled
+[2022.08.27-08.09.41:917][  0]SourceControl: Source control is disabled
+[2022.08.27-08.09.41:920][  0]SourceControl: Source control is disabled
+[2022.08.27-08.09.41:925][  0]SourceControl: Source control is disabled
+[2022.08.27-08.09.41:942][  0]LogUProjectInfo: Found projects:
+[2022.08.27-08.09.41:945][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.08.27-08.09.41:945][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.08.27-08.09.41:953][  0]LogCollectionManager: Loaded 0 collections in 0.000457 seconds
+[2022.08.27-08.09.41:971][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal Projects/Souls of Legends/Souls-of-Legends/Souls_Of_Legends/Saved/Collections/' took 0.00s
+[2022.08.27-08.09.41:971][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal Projects/Souls of Legends/Souls-of-Legends/Souls_Of_Legends/Content/Developers/leon/Collections/' took 0.00s
+[2022.08.27-08.09.41:971][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal Projects/Souls of Legends/Souls-of-Legends/Souls_Of_Legends/Content/Collections/' took 0.00s
+[2022.08.27-08.09.41:971][  0]LogOcInput: OculusInput pre-init called
+[2022.08.27-08.09.41:979][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2022.08.27-08.09.41:979][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2022.08.27-08.09.42:019][  0]LogEngine: Initializing Engine...
+[2022.08.27-08.09.42:020][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.08.27-08.09.42:020][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2022.08.27-08.09.42:021][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2022.08.27-08.09.42:115][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.08.27-08.09.42:123][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.08.27-08.09.42:130][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.08.27-08.09.42:134][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.08.27-08.09.42:134][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.08.27-08.09.42:134][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.08.27-08.09.42:134][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.08.27-08.09.42:134][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.08.27-08.09.42:134][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.08.27-08.09.42:134][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.08.27-08.09.42:134][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.08.27-08.09.42:134][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.08.27-08.09.42:134][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.08.27-08.09.42:134][  0]LogAudio: Display: Using built-in audio occlusion.
+[2022.08.27-08.09.42:134][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2022.08.27-08.09.42:140][  0]LogAudioMixer: Display: 0: FrontLeft
+[2022.08.27-08.09.42:140][  0]LogAudioMixer: Display: 1: FrontRight
+[2022.08.27-08.09.42:177][  0]LogAudioMixer: Display: Using Audio Device Headphones (High Definition Audio Device)
+[2022.08.27-08.09.42:183][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.08.27-08.09.42:184][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.08.27-08.09.42:184][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.08.27-08.09.42:185][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.08.27-08.09.42:185][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.08.27-08.09.42:185][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.08.27-08.09.42:186][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.08.27-08.09.42:186][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.08.27-08.09.42:186][  0]LogInit: FAudioDevice initialized.
+[2022.08.27-08.09.42:186][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.08.27-08.09.42:186][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.08.27-08.09.42:278][  0]LogDerivedDataCache: Saved boot cache 0.09s 77MB C:/Users/leo_n/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2022.08.27-08.09.42:279][  0]LogInit: Texture streaming: Enabled
+[2022.08.27-08.09.42:290][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.2-15973114+++UE4+Release-4.26
+[2022.08.27-08.09.42:293][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.08.27-08.09.42:293][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2022.08.27-08.09.42:294][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2022.08.27-08.09.42:312][  0]LogInit: Transaction tracking system initialized
+[2022.08.27-08.09.42:329][  0]BlueprintLog: New page: Editor Load
+[2022.08.27-08.09.42:386][  0]LocalizationService: Localization service is disabled
+[2022.08.27-08.09.42:405][  0]TimingProfiler: Initialize
+[2022.08.27-08.09.42:405][  0]TimingProfiler: OnSessionChanged
+[2022.08.27-08.09.42:405][  0]LoadingProfiler: Initialize
+[2022.08.27-08.09.42:405][  0]LoadingProfiler: OnSessionChanged
+[2022.08.27-08.09.42:405][  0]NetworkingProfiler: Initialize
+[2022.08.27-08.09.42:405][  0]NetworkingProfiler: OnSessionChanged
+[2022.08.27-08.09.42:405][  0]MemoryProfiler: Initialize
+[2022.08.27-08.09.42:405][  0]MemoryProfiler: OnSessionChanged
+[2022.08.27-08.09.42:450][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.08.27-08.09.42:450][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.08.27-08.09.42:688][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2022.08.27-08.09.42:688][  0]LogCook: Display: Mobile HDR setting 1
+[2022.08.27-08.09.42:808][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal Projects/Souls of Legends/Souls-of-Legends/Souls_Of_Legends/Content/' took 0.01s
+[2022.08.27-08.09.42:934][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.08.27-08.09.42:936][  0]SourceControl: Source control is disabled
+[2022.08.27-08.09.42:936][  0]LogUnrealEdMisc: Loading editor; pre map load, took 5.277
+[2022.08.27-08.09.42:936][  0]Cmd: MAP LOAD FILE="../../../../../Unreal Projects/Souls of Legends/Souls-of-Legends/Souls_Of_Legends/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.08.27-08.09.42:936][  0]LightingResults: New page: Lighting Build
+[2022.08.27-08.09.42:937][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.08.27-08.09.42:937][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.27-08.09.42:937][  0]MapCheck: New page: Map Check
+[2022.08.27-08.09.42:937][  0]LightingResults: New page: Lighting Build
+[2022.08.27-08.09.42:945][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2022.08.27-08.09.43:696][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'ThirdPersonExampleMap'.
+[2022.08.27-08.09.43:696][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2022.08.27-08.09.43:706][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.08.27-08.09.43:717][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2022.08.27-08.09.43:719][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.08.27-08.09.43:719][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.263ms to complete.
+[2022.08.27-08.09.43:719][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.784
+[2022.08.27-08.09.43:721][  0]LogUnrealEdMisc: Total Editor Startup Time, took 6.062
+[2022.08.27-08.09.43:837][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.27-08.09.43:844][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.27-08.09.43:848][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.27-08.09.43:853][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.27-08.09.43:864][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0079 seconds. Added 3601 classes and 859 folders.
+[2022.08.27-08.09.43:866][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2022.08.27-08.09.43:867][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.08.27-08.09.43:867][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.08.27-08.09.43:867][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.08.27-08.09.43:867][  0]LogPakFile: OnPakFileMounted2Time == 0.000007
+[2022.08.27-08.09.43:867][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.08.27-08.09.43:867][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.08.27-08.09.43:867][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.08.27-08.09.43:867][  0]LogPakFile: OnPakFileMounted2Time == 0.000008
+[2022.08.27-08.09.43:868][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2022.08.27-08.09.43:868][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.08.27-08.09.43:868][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2022.08.27-08.09.43:868][  0]LogPakFile: OnPakFileMounted2Time == 0.000009
+[2022.08.27-08.09.43:868][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.08.27-08.09.43:868][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.08.27-08.09.43:868][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.08.27-08.09.43:868][  0]LogPakFile: OnPakFileMounted2Time == 0.000010
+[2022.08.27-08.09.43:868][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.08.27-08.09.43:868][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.08.27-08.09.43:868][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.08.27-08.09.43:868][  0]LogPakFile: OnPakFileMounted2Time == 0.000010
+[2022.08.27-08.09.43:869][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.08.27-08.09.43:869][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.08.27-08.09.43:869][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.08.27-08.09.43:869][  0]LogPakFile: OnPakFileMounted2Time == 0.000011
+[2022.08.27-08.09.43:869][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.08.27-08.09.43:869][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.08.27-08.09.43:869][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.08.27-08.09.43:869][  0]LogPakFile: OnPakFileMounted2Time == 0.000012
+[2022.08.27-08.09.43:869][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.08.27-08.09.43:869][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.08.27-08.09.43:869][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.08.27-08.09.43:869][  0]LogPakFile: OnPakFileMounted2Time == 0.000013
+[2022.08.27-08.09.43:870][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.08.27-08.09.43:870][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.08.27-08.09.43:870][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.08.27-08.09.43:870][  0]LogPakFile: OnPakFileMounted2Time == 0.000014
+[2022.08.27-08.09.43:870][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.08.27-08.09.43:870][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.08.27-08.09.43:870][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.08.27-08.09.43:870][  0]LogPakFile: OnPakFileMounted2Time == 0.000015
+[2022.08.27-08.09.43:870][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.08.27-08.09.43:870][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.08.27-08.09.43:870][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.08.27-08.09.43:870][  0]LogPakFile: OnPakFileMounted2Time == 0.000016
+[2022.08.27-08.09.43:871][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.08.27-08.09.43:871][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.08.27-08.09.43:871][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.08.27-08.09.43:871][  0]LogPakFile: OnPakFileMounted2Time == 0.000017
+[2022.08.27-08.09.43:871][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.08.27-08.09.43:871][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.08.27-08.09.43:871][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.08.27-08.09.43:871][  0]LogPakFile: OnPakFileMounted2Time == 0.000017
+[2022.08.27-08.09.43:871][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.08.27-08.09.43:871][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.08.27-08.09.43:871][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.08.27-08.09.43:871][  0]LogPakFile: OnPakFileMounted2Time == 0.000018
+[2022.08.27-08.09.43:872][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.08.27-08.09.43:872][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.08.27-08.09.43:872][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.08.27-08.09.43:872][  0]LogPakFile: OnPakFileMounted2Time == 0.000019
+[2022.08.27-08.09.43:872][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.08.27-08.09.43:872][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.08.27-08.09.43:872][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.08.27-08.09.43:872][  0]LogPakFile: OnPakFileMounted2Time == 0.000020
+[2022.08.27-08.09.43:872][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.08.27-08.09.43:872][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.08.27-08.09.43:872][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.08.27-08.09.43:872][  0]LogPakFile: OnPakFileMounted2Time == 0.000021
+[2022.08.27-08.09.43:873][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.08.27-08.09.43:873][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.08.27-08.09.43:873][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.08.27-08.09.43:873][  0]LogPakFile: OnPakFileMounted2Time == 0.000022
+[2022.08.27-08.09.43:873][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.08.27-08.09.43:873][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.08.27-08.09.43:873][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.08.27-08.09.43:873][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2022.08.27-08.09.43:873][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.08.27-08.09.43:873][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.08.27-08.09.43:873][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.08.27-08.09.43:873][  0]LogPakFile: OnPakFileMounted2Time == 0.000024
+[2022.08.27-08.09.43:874][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.08.27-08.09.43:874][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.08.27-08.09.43:874][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.08.27-08.09.43:874][  0]LogPakFile: OnPakFileMounted2Time == 0.000025
+[2022.08.27-08.09.43:874][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.08.27-08.09.43:874][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.08.27-08.09.43:874][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.08.27-08.09.43:874][  0]LogPakFile: OnPakFileMounted2Time == 0.000025
+[2022.08.27-08.09.43:874][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2022.08.27-08.09.43:874][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.08.27-08.09.43:874][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2022.08.27-08.09.43:874][  0]LogPakFile: OnPakFileMounted2Time == 0.000026
+[2022.08.27-08.09.43:875][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.08.27-08.09.43:875][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.08.27-08.09.43:875][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.08.27-08.09.43:875][  0]LogPakFile: OnPakFileMounted2Time == 0.000027
+[2022.08.27-08.09.43:875][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.08.27-08.09.43:875][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.08.27-08.09.43:875][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.08.27-08.09.43:875][  0]LogPakFile: OnPakFileMounted2Time == 0.000030
+[2022.08.27-08.09.43:875][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.08.27-08.09.43:875][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.08.27-08.09.43:875][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.08.27-08.09.43:875][  0]LogPakFile: OnPakFileMounted2Time == 0.000031
+[2022.08.27-08.09.43:902][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2022.08.27-08.09.43:902][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 2 classes and 0 folders.
+[2022.08.27-08.09.43:932][  0]LogSlate: Took 0.000155 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.08.27-08.09.43:934][  0]LogSlate: Took 0.000165 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.08.27-08.09.43:937][  0]LogSlate: Took 0.000155 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.08.27-08.09.44:004][  0]LogRenderer: Reallocating scene render targets to support 1208x600 Format 10 NumSamples 1 (Frame:1).
+[2022.08.27-08.09.44:322][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2022.08.27-08.09.44:322][  0]LogInput: Warning: Action Jump uses invalid key OculusGo_Left_Trigger_Click.
+[2022.08.27-08.09.44:322][  0]LogInput: Warning: Action ResetVR uses invalid key OculusGo_Left_Trackpad_Click.
+[2022.08.27-08.09.44:322][  0]LogInput: Warning: Use -RemoveInvalidKeys to remove instances of these keys from the action mapping.
+[2022.08.27-08.09.44:322][  0]LogLoad: (Engine Initialization) Total time: 6.66 seconds
+[2022.08.27-08.09.44:322][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.08.27-08.09.44:322][  0]LogInit: First time updating LLM stats...
+[2022.08.27-08.09.44:362][  0]LogAssetRegistry: Asset discovery search completed in 3.8818 seconds
+[2022.08.27-08.09.44:363][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2022.08.27-08.09.44:394][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.08.27-08.09.44:452][  3]LogSlate: Took 0.000151 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.08.27-08.09.45:338][109]LogSlate: Took 0.000245 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.08.27-08.09.53:406][940]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.08.27-08.09.53:413][940]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C
+[2022.08.27-08.09.53:413][940]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C
+[2022.08.27-08.09.53:413][940]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C
+[2022.08.27-08.09.53:413][940]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C
+[2022.08.27-08.09.53:413][940]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C
+[2022.08.27-08.09.53:413][940]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C
+[2022.08.27-08.09.53:413][940]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C
+[2022.08.27-08.09.53:413][940]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C
+[2022.08.27-08.09.53:413][940]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C
+[2022.08.27-08.09.53:413][940]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C
+[2022.08.27-08.09.53:413][940]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C
+[2022.08.27-08.09.53:413][940]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C
+[2022.08.27-08.09.53:413][940]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C
+[2022.08.27-08.09.53:413][940]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C
+[2022.08.27-08.09.53:413][940]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C
+[2022.08.27-08.09.53:413][940]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C
+[2022.08.27-08.09.53:413][940]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C
+[2022.08.27-08.09.53:413][940]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C
+[2022.08.27-08.09.53:413][940]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C
+[2022.08.27-08.09.53:413][940]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C
+[2022.08.27-08.09.53:414][940]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C
+[2022.08.27-08.09.53:414][940]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C
+[2022.08.27-08.09.53:414][940]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C
+[2022.08.27-08.09.53:414][940]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C
+[2022.08.27-08.09.53:414][940]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C
+[2022.08.27-08.09.53:414][940]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C
+[2022.08.27-08.09.53:414][940]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C
+[2022.08.27-08.09.53:414][940]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C
+[2022.08.27-08.09.53:414][940]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C
+[2022.08.27-08.09.53:414][940]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C
+[2022.08.27-08.09.53:414][940]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C
+[2022.08.27-08.09.53:414][940]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C
+[2022.08.27-08.09.53:414][940]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C
+[2022.08.27-08.09.53:414][940]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C
+[2022.08.27-08.09.53:414][940]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C
+[2022.08.27-08.09.53:414][940]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C
+[2022.08.27-08.09.53:414][940]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C
+[2022.08.27-08.09.53:414][940]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C
+[2022.08.27-08.09.53:414][940]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C
+[2022.08.27-08.09.53:414][940]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C
+[2022.08.27-08.09.53:415][940]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C
+[2022.08.27-08.09.53:415][940]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C
+[2022.08.27-08.09.53:415][940]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C
+[2022.08.27-08.09.53:415][940]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C
+[2022.08.27-08.09.53:415][940]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C
+[2022.08.27-08.09.53:415][940]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C
+[2022.08.27-08.09.53:415][940]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C
+[2022.08.27-08.09.53:415][940]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C
+[2022.08.27-08.09.53:415][940]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C
+[2022.08.27-08.09.53:415][940]LogLinker: Warning: Unable to load Default__building_DM_Blueprint_C with outer Package /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint because its class does not exist
+[2022.08.27-08.09.53:415][940]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C
+[2022.08.27-08.09.53:415][940]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C
+[2022.08.27-08.09.53:415][940]LogLinker: Warning: Unable to load DestructibleComponent0 with outer building_DM_Blueprint_C /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.Default__building_DM_Blueprint_C because its class does not exist
+[2022.08.27-08.09.53:416][940]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C
+[2022.08.27-08.09.53:416][940]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C
+[2022.08.27-08.09.53:416][940]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C
+[2022.08.27-08.09.53:416][940]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C
+[2022.08.27-08.09.53:416][940]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C
+[2022.08.27-08.09.53:416][940]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C
+[2022.08.27-08.09.53:416][940]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C
+[2022.08.27-08.09.53:416][940]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C
+[2022.08.27-08.09.53:416][940]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C
+[2022.08.27-08.09.53:417][940]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C
+[2022.08.27-08.09.53:417][940]LogBlueprint: Warning: FMemberReference::ResolveMember (addfire) bSelfContext == true, but no scope supplied!
+[2022.08.27-08.09.53:417][940]LogBlueprint: Warning: FMemberReference::ResolveMember (addfire) bSelfContext == true, but no scope supplied!
+[2022.08.27-08.09.53:417][940]LogBlueprint: Warning: FMemberReference::ResolveMember (Chunks_numbers) bSelfContext == true, but no scope supplied!
+[2022.08.27-08.09.53:417][940]LogBlueprint: Warning: FMemberReference::ResolveMember (Chunks_numbers) bSelfContext == true, but no scope supplied!
+[2022.08.27-08.09.53:418][940]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C
+[2022.08.27-08.09.53:418][940]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C
+[2022.08.27-08.09.53:419][940]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C
+[2022.08.27-08.09.53:419][940]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C
+[2022.08.27-08.09.53:419][940]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C
+[2022.08.27-08.09.53:419][940]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C
+[2022.08.27-08.09.53:419][940]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C
+[2022.08.27-08.09.53:419][940]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C
+[2022.08.27-08.09.53:419][940]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C
+[2022.08.27-08.09.53:419][940]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C
+[2022.08.27-08.09.53:419][940]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C
+[2022.08.27-08.09.53:419][940]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C
+[2022.08.27-08.09.53:419][940]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C
+[2022.08.27-08.09.53:419][940]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C
+[2022.08.27-08.09.53:419][940]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C
+[2022.08.27-08.09.53:419][940]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C
+[2022.08.27-08.09.53:419][940]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C
+[2022.08.27-08.09.53:419][940]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C
+[2022.08.27-08.09.53:420][940]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C
+[2022.08.27-08.09.53:420][940]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C
+[2022.08.27-08.09.53:420][940]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C
+[2022.08.27-08.09.53:420][940]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C
+[2022.08.27-08.09.53:420][940]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C
+[2022.08.27-08.09.53:420][940]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C
+[2022.08.27-08.09.53:420][940]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C
+[2022.08.27-08.09.53:420][940]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C
+[2022.08.27-08.09.53:420][940]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C
+[2022.08.27-08.09.53:420][940]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C
+[2022.08.27-08.09.53:420][940]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C
+[2022.08.27-08.09.53:420][940]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C
+[2022.08.27-08.09.53:420][940]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C
+[2022.08.27-08.09.53:420][940]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C
+[2022.08.27-08.09.53:420][940]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C
+[2022.08.27-08.09.53:420][940]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C
+[2022.08.27-08.09.53:420][940]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C
+[2022.08.27-08.09.53:420][940]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C
+[2022.08.27-08.09.53:420][940]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C
+[2022.08.27-08.09.53:420][940]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C
+[2022.08.27-08.09.53:420][940]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C
+[2022.08.27-08.09.53:421][940]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C
+[2022.08.27-08.09.53:421][940]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C
+[2022.08.27-08.09.53:421][940]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C
+[2022.08.27-08.09.53:421][940]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C
+[2022.08.27-08.09.53:421][940]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C
+[2022.08.27-08.09.53:421][940]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C
+[2022.08.27-08.09.53:421][940]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C
+[2022.08.27-08.09.53:421][940]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C
+[2022.08.27-08.09.53:421][940]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C
+[2022.08.27-08.09.53:421][940]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C
+[2022.08.27-08.09.53:421][940]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C
+[2022.08.27-08.09.53:421][940]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C
+[2022.08.27-08.09.53:421][940]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C
+[2022.08.27-08.09.53:421][940]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C
+[2022.08.27-08.09.53:421][940]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C
+[2022.08.27-08.09.53:853][940]LogLinker: Warning: Unable to load building_DM with outer Package /Game/M5VFXVOL2/Props/Meshes/Fracture/building_DM because its class does not exist
+[2022.08.27-08.09.53:853][940]LogLinker: Warning: Unable to load OilTank_mesh_DM with outer Package /Game/M5VFXVOL2/Props/Meshes/OilTank_mesh_DM because its class does not exist
+[2022.08.27-08.09.53:860][940]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C
+[2022.08.27-08.09.53:862][940]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C
+[2022.08.27-08.09.53:862][940]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C
+[2022.08.27-08.09.53:862][940]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C
+[2022.08.27-08.09.53:862][940]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C
+[2022.08.27-08.09.54:129][940]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/M5VFXVOL2/Props/Meshes/OilTank_mesh_DM.OilTank_mesh_DM'
+[2022.08.27-08.09.54:130][940]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/M5VFXVOL2/Props/Meshes/Fracture/building_DM.building_DM'
+[2022.08.27-08.09.54:135][940]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'fire_Index': BlueprintGeneratedClass /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C
+[2022.08.27-08.09.54:135][940]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'fire_Index': ArrayProperty /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C:fire_Index
+[2022.08.27-08.09.54:135][940]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Fr_position': BlueprintGeneratedClass /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C
+[2022.08.27-08.09.54:135][940]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'force_offset': BlueprintGeneratedClass /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C
+[2022.08.27-08.09.54:135][940]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Direction': BlueprintGeneratedClass /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C
+[2022.08.27-08.09.54:135][940]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'ExplosionScale': BlueprintGeneratedClass /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C
+[2022.08.27-08.09.54:135][940]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'FireScale': BlueprintGeneratedClass /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C
+[2022.08.27-08.09.54:135][940]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Distortion_Emittter_Enable': BlueprintGeneratedClass /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C
+[2022.08.27-08.09.54:136][940]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Smoke_Emitter_Enable': BlueprintGeneratedClass /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C
+[2022.08.27-08.09.54:136][940]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'oscillate': BlueprintGeneratedClass /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C
+[2022.08.27-08.09.54:136][940]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Random_Start_angle_max': BlueprintGeneratedClass /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C
+[2022.08.27-08.09.54:136][940]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Random_Start_angle_min': BlueprintGeneratedClass /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C
+[2022.08.27-08.09.54:136][940]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Oscil_Speed': BlueprintGeneratedClass /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C
+[2022.08.27-08.09.54:136][940]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Light': BlueprintGeneratedClass /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C
+[2022.08.27-08.09.54:136][940]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Explosion_start_Delay': BlueprintGeneratedClass /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C
+[2022.08.27-08.09.54:136][940]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'particle_Fire': BlueprintGeneratedClass /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C
+[2022.08.27-08.09.54:136][940]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Explosion_Position_offset': BlueprintGeneratedClass /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C
+[2022.08.27-08.09.54:136][940]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'particle_Exp': BlueprintGeneratedClass /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C
+[2022.08.27-08.09.54:136][940]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Fire_position_offset': BlueprintGeneratedClass /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C
+[2022.08.27-08.09.54:136][940]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'LightRadius': BlueprintGeneratedClass /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C
+[2022.08.27-08.09.54:136][940]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Light_Intensity': BlueprintGeneratedClass /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C
+[2022.08.27-08.09.54:136][940]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Fracture_Scale': BlueprintGeneratedClass /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C
+[2022.08.27-08.09.54:136][940]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'impulse_force_strength': BlueprintGeneratedClass /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C
+[2022.08.27-08.09.54:136][940]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'spawn_rate': BlueprintGeneratedClass /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C
+[2022.08.27-08.09.54:136][940]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Slomo': BlueprintGeneratedClass /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C
+[2022.08.27-08.09.54:136][940]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'fire_on': BlueprintGeneratedClass /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C
+[2022.08.27-08.09.54:136][940]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'chunknumber': BlueprintGeneratedClass /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C
+[2022.08.27-08.09.54:136][940]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'fire_Trail': BlueprintGeneratedClass /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C
+[2022.08.27-08.09.54:136][940]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Fracture_mesh': BlueprintGeneratedClass /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C
+[2022.08.27-08.09.54:136][940]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Timeline_0': BlueprintGeneratedClass /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C
+[2022.08.27-08.09.54:136][940]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Timeline_0__Direction_4133DC2F40A491B7C1EEB5A99C683880': BlueprintGeneratedClass /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C
+[2022.08.27-08.09.54:136][940]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Timeline_0_Dir_Vector_4133DC2F40A491B7C1EEB5A99C683880': BlueprintGeneratedClass /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C
+[2022.08.27-08.09.54:136][940]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'RadialForce': BlueprintGeneratedClass /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C
+[2022.08.27-08.09.54:136][940]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Billboard': BlueprintGeneratedClass /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C
+[2022.08.27-08.09.54:136][940]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Explosion_Dummy': BlueprintGeneratedClass /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C
+[2022.08.27-08.09.54:136][940]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Explosion_particle': BlueprintGeneratedClass /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C
+[2022.08.27-08.09.54:136][940]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Fire_particle': BlueprintGeneratedClass /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C
+[2022.08.27-08.09.54:136][940]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Fire_Dummy': BlueprintGeneratedClass /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C
+[2022.08.27-08.09.54:136][940]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'PointLight': BlueprintGeneratedClass /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C
+[2022.08.27-08.09.54:136][940]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'ExecuteUbergraph_building_DM_Blueprint': BlueprintGeneratedClass /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C
+[2022.08.27-08.09.54:136][940]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'CallFunc_GetAllSocketNames_ReturnValue': Function /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C:ExecuteUbergraph_building_DM_Blueprint
+[2022.08.27-08.09.54:136][940]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'CallFunc_GetAllSocketNames_ReturnValue': ArrayProperty /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C:ExecuteUbergraph_building_DM_Blueprint.CallFunc_GetAllSocketNames_ReturnValue
+[2022.08.27-08.09.54:136][940]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'CallFunc_GetAllSocketNames_ReturnValue2': Function /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C:ExecuteUbergraph_building_DM_Blueprint
+[2022.08.27-08.09.54:136][940]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'CallFunc_GetAllSocketNames_ReturnValue2': ArrayProperty /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C:ExecuteUbergraph_building_DM_Blueprint.CallFunc_GetAllSocketNames_ReturnValue2
+[2022.08.27-08.09.54:136][940]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'CallFunc_ProjectWorldLocationToScreen_ReturnValue': Function /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C:ExecuteUbergraph_building_DM_Blueprint
+[2022.08.27-08.09.54:136][940]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'CallFunc_ProjectWorldLocationToScreen_ScreenLocation': Function /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C:ExecuteUbergraph_building_DM_Blueprint
+[2022.08.27-08.09.54:136][940]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'CallFunc_Add_VectorVector_ReturnValue3': Function /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C:ExecuteUbergraph_building_DM_Blueprint
+[2022.08.27-08.09.54:136][940]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'K2Node_Select_Default': Function /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C:ExecuteUbergraph_building_DM_Blueprint
+[2022.08.27-08.09.54:136][940]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'CallFunc_Normal_ReturnValue2': Function /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C:ExecuteUbergraph_building_DM_Blueprint
+[2022.08.27-08.09.54:136][940]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'CallFunc_GetPlayerController_ReturnValue': Function /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C:ExecuteUbergraph_building_DM_Blueprint
+[2022.08.27-08.09.54:136][940]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'CallFunc_Add_VectorVector_ReturnValue2': Function /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C:ExecuteUbergraph_building_DM_Blueprint
+[2022.08.27-08.09.54:136][940]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'CallFunc_Add_IntInt_ReturnValue3': Function /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C:ExecuteUbergraph_building_DM_Blueprint
+[2022.08.27-08.09.54:136][940]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'CallFunc_Less_IntInt_ReturnValue3': Function /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C:ExecuteUbergraph_building_DM_Blueprint
+[2022.08.27-08.09.54:136][940]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'CallFunc_Normal_ReturnValue': Function /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C:ExecuteUbergraph_building_DM_Blueprint
+[2022.08.27-08.09.54:136][940]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'CallFunc_Add_VectorVector_ReturnValue': Function /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C:ExecuteUbergraph_building_DM_Blueprint
+[2022.08.27-08.09.54:136][940]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Temp_int_Loop_Counter_Variable3': Function /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C:ExecuteUbergraph_building_DM_Blueprint
+[2022.08.27-08.09.54:136][940]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'CallFunc_MakeVector_ReturnValue': Function /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C:ExecuteUbergraph_building_DM_Blueprint
+[2022.08.27-08.09.54:136][940]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'CallFunc_RandomFloatInRange_ReturnValue': Function /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C:ExecuteUbergraph_building_DM_Blueprint
+[2022.08.27-08.09.54:136][940]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'CallFunc_Multiply_FloatFloat_ReturnValue': Function /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C:ExecuteUbergraph_building_DM_Blueprint
+[2022.08.27-08.09.54:136][940]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'CallFunc_GetWorldDeltaSeconds_ReturnValue': Function /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C:ExecuteUbergraph_building_DM_Blueprint
+[2022.08.27-08.09.54:136][940]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'CallFunc_SpawnEmitterAtLocation_ReturnValue': Function /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C:ExecuteUbergraph_building_DM_Blueprint
+[2022.08.27-08.09.54:136][940]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'CallFunc_Less_IntInt_ReturnValue2': Function /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C:ExecuteUbergraph_building_DM_Blueprint
+[2022.08.27-08.09.54:136][940]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'CallFunc_EqualEqual_IntInt_ReturnValue': Function /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C:ExecuteUbergraph_building_DM_Blueprint
+[2022.08.27-08.09.54:136][940]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'CallFunc_Array_Length_ReturnValue3': Function /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C:ExecuteUbergraph_building_DM_Blueprint
+[2022.08.27-08.09.54:136][940]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'CallFunc_Array_Get_Item3': Function /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C:ExecuteUbergraph_building_DM_Blueprint
+[2022.08.27-08.09.54:136][940]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'CallFunc_Less_IntInt_ReturnValue': Function /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C:ExecuteUbergraph_building_DM_Blueprint
+[2022.08.27-08.09.54:136][940]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'CallFunc_GetCenterOfMass_ReturnValue2': Function /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C:ExecuteUbergraph_building_DM_Blueprint
+[2022.08.27-08.09.54:136][940]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'CallFunc_Array_Length_ReturnValue2': Function /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C:ExecuteUbergraph_building_DM_Blueprint
+[2022.08.27-08.09.54:136][940]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'CallFunc_Array_Get_Item2': Function /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C:ExecuteUbergraph_building_DM_Blueprint
+[2022.08.27-08.09.54:136][940]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'CallFunc_GetCenterOfMass_ReturnValue': Function /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C:ExecuteUbergraph_building_DM_Blueprint
+[2022.08.27-08.09.54:136][940]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'CallFunc_Array_Length_ReturnValue': Function /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C:ExecuteUbergraph_building_DM_Blueprint
+[2022.08.27-08.09.54:136][940]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'CallFunc_Array_Get_Item': Function /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C:ExecuteUbergraph_building_DM_Blueprint
+[2022.08.27-08.09.54:136][940]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'K2Node_Event_DeltaSeconds': Function /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C:ExecuteUbergraph_building_DM_Blueprint
+[2022.08.27-08.09.54:136][940]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Temp_int_Array_Index_Variable3': Function /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C:ExecuteUbergraph_building_DM_Blueprint
+[2022.08.27-08.09.54:136][940]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'CallFunc_Add_IntInt_ReturnValue2': Function /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C:ExecuteUbergraph_building_DM_Blueprint
+[2022.08.27-08.09.54:136][940]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Temp_int_Loop_Counter_Variable2': Function /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C:ExecuteUbergraph_building_DM_Blueprint
+[2022.08.27-08.09.54:136][940]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Temp_int_Array_Index_Variable2': Function /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C:ExecuteUbergraph_building_DM_Blueprint
+[2022.08.27-08.09.54:136][940]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'CallFunc_Conv_IntToString_ReturnValue': Function /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C:ExecuteUbergraph_building_DM_Blueprint
+[2022.08.27-08.09.54:136][940]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Temp_int_Array_Index_Variable': Function /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C:ExecuteUbergraph_building_DM_Blueprint
+[2022.08.27-08.09.54:136][940]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'CallFunc_Add_IntInt_ReturnValue': Function /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C:ExecuteUbergraph_building_DM_Blueprint
+[2022.08.27-08.09.54:136][940]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Temp_int_Loop_Counter_Variable': Function /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C:ExecuteUbergraph_building_DM_Blueprint
+[2022.08.27-08.09.54:136][940]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'CallFunc_Create_ReturnValue': Function /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C:ExecuteUbergraph_building_DM_Blueprint
+[2022.08.27-08.09.54:136][940]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Temp_bool_Variable': Function /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C:ExecuteUbergraph_building_DM_Blueprint
+[2022.08.27-08.09.54:136][940]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'EntryPoint': Function /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C:ExecuteUbergraph_building_DM_Blueprint
+[2022.08.27-08.09.54:137][940]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Chunks_numbers': BlueprintGeneratedClass /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C
+[2022.08.27-08.09.54:137][940]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'addfire': BlueprintGeneratedClass /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C
+[2022.08.27-08.09.54:137][940]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'ReceiveBeginPlay': BlueprintGeneratedClass /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C
+[2022.08.27-08.09.54:137][940]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'ReceiveTick': BlueprintGeneratedClass /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C
+[2022.08.27-08.09.54:137][940]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'DeltaSeconds': Function /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C:ReceiveTick
+[2022.08.27-08.09.54:137][940]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Timeline_0__UpdateFunc': BlueprintGeneratedClass /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C
+[2022.08.27-08.09.54:137][940]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Timeline_0__FinishedFunc': BlueprintGeneratedClass /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C
+[2022.08.27-08.09.54:137][940]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'UserConstructionScript': BlueprintGeneratedClass /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C
+[2022.08.27-08.09.54:137][940]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'CallFunc_K2_SetRelativeLocation_SweepHitResult2': Function /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C:UserConstructionScript
+[2022.08.27-08.09.54:137][940]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'CallFunc_K2_SetRelativeLocation_SweepHitResult': Function /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C:UserConstructionScript
+[2022.08.27-08.09.54:137][940]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'CallFunc_K2_AddLocalOffset_SweepHitResult': Function /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C:UserConstructionScript
+[2022.08.27-08.09.54:137][940]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'UberGraphFrame': BlueprintGeneratedClass /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C
+[2022.08.27-08.09.54:137][940]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Billboard_GEN_VARIABLE': BlueprintGeneratedClass /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C
+[2022.08.27-08.09.54:137][940]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'CurveVector_0': BlueprintGeneratedClass /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C
+[2022.08.27-08.09.54:137][940]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Explosion_particle_GEN_VARIABLE': BlueprintGeneratedClass /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C
+[2022.08.27-08.09.54:137][940]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Fire_particle_GEN_VARIABLE': BlueprintGeneratedClass /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C
+[2022.08.27-08.09.54:137][940]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'PointLight_GEN_VARIABLE': BlueprintGeneratedClass /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C
+[2022.08.27-08.09.54:137][940]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'RadialForce_GEN_VARIABLE': BlueprintGeneratedClass /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C
+[2022.08.27-08.09.54:137][940]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'DefaultSceneRoot_GEN_VARIABLE': BlueprintGeneratedClass /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C
+[2022.08.27-08.09.54:137][940]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SimpleConstructionScript_0': BlueprintGeneratedClass /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C
+[2022.08.27-08.09.54:137][940]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SCS_Node_0': SimpleConstructionScript /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C:SimpleConstructionScript_0
+[2022.08.27-08.09.54:137][940]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SCS_Node_1': SimpleConstructionScript /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C:SimpleConstructionScript_0
+[2022.08.27-08.09.54:137][940]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SCS_Node_2': SimpleConstructionScript /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C:SimpleConstructionScript_0
+[2022.08.27-08.09.54:137][940]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SCS_Node_3': SimpleConstructionScript /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C:SimpleConstructionScript_0
+[2022.08.27-08.09.54:137][940]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SCS_Node_4': SimpleConstructionScript /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C:SimpleConstructionScript_0
+[2022.08.27-08.09.54:137][940]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SCS_Node_5': SimpleConstructionScript /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C:SimpleConstructionScript_0
+[2022.08.27-08.09.54:137][940]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SCS_Node_8': SimpleConstructionScript /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C:SimpleConstructionScript_0
+[2022.08.27-08.09.54:137][940]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SCS_Node_9': SimpleConstructionScript /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C:SimpleConstructionScript_0
+[2022.08.27-08.09.54:137][940]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Explosion_Dummy_GEN_VARIABLE': BlueprintGeneratedClass /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C
+[2022.08.27-08.09.54:137][940]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Fire_Dummy_GEN_VARIABLE': BlueprintGeneratedClass /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C
+[2022.08.27-08.09.54:137][940]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Timeline_0_Template': BlueprintGeneratedClass /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C
+[2022.08.27-08.09.54:137][940]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'AssetImportData': DestructibleMesh /Game/M5VFXVOL2/Props/Meshes/Fracture/building_DM.building_DM
+[2022.08.27-08.09.54:137][940]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SceneThumbnailInfo_0': DestructibleMesh /Game/M5VFXVOL2/Props/Meshes/Fracture/building_DM.building_DM
+[2022.08.27-08.09.54:137][940]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'AssetImportData': DestructibleMesh /Game/M5VFXVOL2/Props/Meshes/OilTank_mesh_DM.OilTank_mesh_DM
+[2022.08.27-08.09.54:137][940]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SceneThumbnailInfo_0': DestructibleMesh /Game/M5VFXVOL2/Props/Meshes/OilTank_mesh_DM.OilTank_mesh_DM
+[2022.08.27-08.09.54:137][940]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Billboard': building_DM_Blueprint_C /Game/M5VFXVOL2/Maps/M5_Vol2_fracture_Map.M5_Vol2_fracture_Map:PersistentLevel.building_DM_Blueprint2
+[2022.08.27-08.09.54:137][940]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Billboard': building_DM_Blueprint_C /Game/M5VFXVOL2/Maps/M5_Vol2_fracture_Map.M5_Vol2_fracture_Map:PersistentLevel.building_DM_Blueprint3_4979
+[2022.08.27-08.09.54:137][940]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Billboard': building_DM_Blueprint_C /Game/M5VFXVOL2/Maps/M5_Vol2_fracture_Map.M5_Vol2_fracture_Map:PersistentLevel.building_DM_Blueprint4
+[2022.08.27-08.09.54:137][940]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Billboard': building_DM_Blueprint_C /Game/M5VFXVOL2/Maps/M5_Vol2_fracture_Map.M5_Vol2_fracture_Map:PersistentLevel.building_DM_Blueprint_79020
+[2022.08.27-08.09.54:137][940]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Explosion_particle': building_DM_Blueprint_C /Game/M5VFXVOL2/Maps/M5_Vol2_fracture_Map.M5_Vol2_fracture_Map:PersistentLevel.building_DM_Blueprint2
+[2022.08.27-08.09.54:137][940]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Fire_particle': building_DM_Blueprint_C /Game/M5VFXVOL2/Maps/M5_Vol2_fracture_Map.M5_Vol2_fracture_Map:PersistentLevel.building_DM_Blueprint2
+[2022.08.27-08.09.54:137][940]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Explosion_particle': building_DM_Blueprint_C /Game/M5VFXVOL2/Maps/M5_Vol2_fracture_Map.M5_Vol2_fracture_Map:PersistentLevel.building_DM_Blueprint3_4979
+[2022.08.27-08.09.54:137][940]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Fire_particle': building_DM_Blueprint_C /Game/M5VFXVOL2/Maps/M5_Vol2_fracture_Map.M5_Vol2_fracture_Map:PersistentLevel.building_DM_Blueprint3_4979
+[2022.08.27-08.09.54:137][940]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Explosion_particle': building_DM_Blueprint_C /Game/M5VFXVOL2/Maps/M5_Vol2_fracture_Map.M5_Vol2_fracture_Map:PersistentLevel.building_DM_Blueprint4
+[2022.08.27-08.09.54:137][940]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Fire_particle': building_DM_Blueprint_C /Game/M5VFXVOL2/Maps/M5_Vol2_fracture_Map.M5_Vol2_fracture_Map:PersistentLevel.building_DM_Blueprint4
+[2022.08.27-08.09.54:137][940]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Explosion_particle': building_DM_Blueprint_C /Game/M5VFXVOL2/Maps/M5_Vol2_fracture_Map.M5_Vol2_fracture_Map:PersistentLevel.building_DM_Blueprint_79020
+[2022.08.27-08.09.54:137][940]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Fire_particle': building_DM_Blueprint_C /Game/M5VFXVOL2/Maps/M5_Vol2_fracture_Map.M5_Vol2_fracture_Map:PersistentLevel.building_DM_Blueprint_79020
+[2022.08.27-08.09.54:137][940]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'PointLight': building_DM_Blueprint_C /Game/M5VFXVOL2/Maps/M5_Vol2_fracture_Map.M5_Vol2_fracture_Map:PersistentLevel.building_DM_Blueprint2
+[2022.08.27-08.09.54:137][940]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'PointLight': building_DM_Blueprint_C /Game/M5VFXVOL2/Maps/M5_Vol2_fracture_Map.M5_Vol2_fracture_Map:PersistentLevel.building_DM_Blueprint3_4979
+[2022.08.27-08.09.54:137][940]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'PointLight': building_DM_Blueprint_C /Game/M5VFXVOL2/Maps/M5_Vol2_fracture_Map.M5_Vol2_fracture_Map:PersistentLevel.building_DM_Blueprint4
+[2022.08.27-08.09.54:137][940]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'PointLight': building_DM_Blueprint_C /Game/M5VFXVOL2/Maps/M5_Vol2_fracture_Map.M5_Vol2_fracture_Map:PersistentLevel.building_DM_Blueprint_79020
+[2022.08.27-08.09.54:137][940]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'RadialForce': building_DM_Blueprint_C /Game/M5VFXVOL2/Maps/M5_Vol2_fracture_Map.M5_Vol2_fracture_Map:PersistentLevel.building_DM_Blueprint2
+[2022.08.27-08.09.54:137][940]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'RadialForce': building_DM_Blueprint_C /Game/M5VFXVOL2/Maps/M5_Vol2_fracture_Map.M5_Vol2_fracture_Map:PersistentLevel.building_DM_Blueprint3_4979
+[2022.08.27-08.09.54:137][940]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'RadialForce': building_DM_Blueprint_C /Game/M5VFXVOL2/Maps/M5_Vol2_fracture_Map.M5_Vol2_fracture_Map:PersistentLevel.building_DM_Blueprint4
+[2022.08.27-08.09.54:137][940]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'RadialForce': building_DM_Blueprint_C /Game/M5VFXVOL2/Maps/M5_Vol2_fracture_Map.M5_Vol2_fracture_Map:PersistentLevel.building_DM_Blueprint_79020
+[2022.08.27-08.09.54:137][940]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Explosion_Dummy': building_DM_Blueprint_C /Game/M5VFXVOL2/Maps/M5_Vol2_fracture_Map.M5_Vol2_fracture_Map:PersistentLevel.building_DM_Blueprint2
+[2022.08.27-08.09.54:137][940]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Fire_Dummy': building_DM_Blueprint_C /Game/M5VFXVOL2/Maps/M5_Vol2_fracture_Map.M5_Vol2_fracture_Map:PersistentLevel.building_DM_Blueprint2
+[2022.08.27-08.09.54:137][940]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Explosion_Dummy': building_DM_Blueprint_C /Game/M5VFXVOL2/Maps/M5_Vol2_fracture_Map.M5_Vol2_fracture_Map:PersistentLevel.building_DM_Blueprint3_4979
+[2022.08.27-08.09.54:137][940]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Fire_Dummy': building_DM_Blueprint_C /Game/M5VFXVOL2/Maps/M5_Vol2_fracture_Map.M5_Vol2_fracture_Map:PersistentLevel.building_DM_Blueprint3_4979
+[2022.08.27-08.09.54:137][940]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Explosion_Dummy': building_DM_Blueprint_C /Game/M5VFXVOL2/Maps/M5_Vol2_fracture_Map.M5_Vol2_fracture_Map:PersistentLevel.building_DM_Blueprint4
+[2022.08.27-08.09.54:137][940]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Fire_Dummy': building_DM_Blueprint_C /Game/M5VFXVOL2/Maps/M5_Vol2_fracture_Map.M5_Vol2_fracture_Map:PersistentLevel.building_DM_Blueprint4
+[2022.08.27-08.09.54:137][940]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Explosion_Dummy': building_DM_Blueprint_C /Game/M5VFXVOL2/Maps/M5_Vol2_fracture_Map.M5_Vol2_fracture_Map:PersistentLevel.building_DM_Blueprint_79020
+[2022.08.27-08.09.54:137][940]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Fire_Dummy': building_DM_Blueprint_C /Game/M5VFXVOL2/Maps/M5_Vol2_fracture_Map.M5_Vol2_fracture_Map:PersistentLevel.building_DM_Blueprint_79020
+[2022.08.27-08.09.54:137][940]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Timeline_0': building_DM_Blueprint_C /Game/M5VFXVOL2/Maps/M5_Vol2_fracture_Map.M5_Vol2_fracture_Map:PersistentLevel.building_DM_Blueprint2
+[2022.08.27-08.09.54:137][940]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Timeline_0': building_DM_Blueprint_C /Game/M5VFXVOL2/Maps/M5_Vol2_fracture_Map.M5_Vol2_fracture_Map:PersistentLevel.building_DM_Blueprint3_4979
+[2022.08.27-08.09.54:137][940]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Timeline_0': building_DM_Blueprint_C /Game/M5VFXVOL2/Maps/M5_Vol2_fracture_Map.M5_Vol2_fracture_Map:PersistentLevel.building_DM_Blueprint4
+[2022.08.27-08.09.54:137][940]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Timeline_0': building_DM_Blueprint_C /Game/M5VFXVOL2/Maps/M5_Vol2_fracture_Map.M5_Vol2_fracture_Map:PersistentLevel.building_DM_Blueprint_79020
+[2022.08.27-08.10.08:421][727]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2022.08.27-08.10.08:448][727]LogSlate: Window 'Souls_Of_Legends - Unreal Editor' being destroyed
+[2022.08.27-08.10.08:532][728]Cmd: QUIT_EDITOR
+[2022.08.27-08.10.08:532][728]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2022.08.27-08.10.08:535][728]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2022.08.27-08.10.08:537][728]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2022.08.27-08.10.08:537][728]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2022.08.27-08.10.08:537][728]LogAudio: Display: Audio Device unregistered from world 'ThirdPersonExampleMap'.
+[2022.08.27-08.10.08:537][728]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.08.27-08.10.08:538][728]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.08.27-08.10.08:563][728]LogAudio: Display: Audio Device Manager Shutdown
+[2022.08.27-08.10.08:563][728]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.08.27-08.10.08:569][728]LogExit: Preparing to exit.
+[2022.08.27-08.10.08:701][728]LogDeviceProfile: Device profile begin destroy: [0000027637BAB600] Windows
+[2022.08.27-08.10.08:701][728]LogDeviceProfile: Device profile begin destroy: [0000027637BAB500] Default__DeviceProfile
+[2022.08.27-08.10.08:701][728]LogDeviceProfile: Device profile begin destroy: [0000027637B70C00] WindowsNoEditor
+[2022.08.27-08.10.08:701][728]LogDeviceProfile: Device profile begin destroy: [0000027637BA8E00] WindowsServer
+[2022.08.27-08.10.08:701][728]LogDeviceProfile: Device profile begin destroy: [0000027637B72F00] WindowsClient
+[2022.08.27-08.10.08:701][728]LogDeviceProfile: Device profile begin destroy: [0000027637BAB000] IOS
+[2022.08.27-08.10.08:701][728]LogDeviceProfile: Device profile begin destroy: [0000027637B71200] iPadAir
+[2022.08.27-08.10.08:701][728]LogDeviceProfile: Device profile begin destroy: [0000027637BA9300] iPadAir2
+[2022.08.27-08.10.08:701][728]LogDeviceProfile: Device profile begin destroy: [0000027637A94C00] IPadPro
+[2022.08.27-08.10.08:701][728]LogDeviceProfile: Device profile begin destroy: [0000027637A94D00] iPadAir3
+[2022.08.27-08.10.08:701][728]LogDeviceProfile: Device profile begin destroy: [0000027637BAAB00] iPadAir4
+[2022.08.27-08.10.08:701][728]LogDeviceProfile: Device profile begin destroy: [0000027637A97900] iPadMini2
+[2022.08.27-08.10.08:701][728]LogDeviceProfile: Device profile begin destroy: [0000027637BA9600] iPadMini3
+[2022.08.27-08.10.08:701][728]LogDeviceProfile: Device profile begin destroy: [0000027637A96000] iPadMini4
+[2022.08.27-08.10.08:701][728]LogDeviceProfile: Device profile begin destroy: [0000027637BAB700] iPadMini5
+[2022.08.27-08.10.08:701][728]LogDeviceProfile: Device profile begin destroy: [0000027637B73100] iPhone6
+[2022.08.27-08.10.08:701][728]LogDeviceProfile: Device profile begin destroy: [0000027637B73200] iPodTouch6
+[2022.08.27-08.10.08:701][728]LogDeviceProfile: Device profile begin destroy: [0000027637A97B00] iPhone7
+[2022.08.27-08.10.08:701][728]LogDeviceProfile: Device profile begin destroy: [00000276377EFF00] iPodTouch7
+[2022.08.27-08.10.08:701][728]LogDeviceProfile: Device profile begin destroy: [0000027637B72600] iPhone5S
+[2022.08.27-08.10.08:701][728]LogDeviceProfile: Device profile begin destroy: [00000276377ED100] iPhone6Plus
+[2022.08.27-08.10.08:701][728]LogDeviceProfile: Device profile begin destroy: [0000027637B71000] iPhone6S
+[2022.08.27-08.10.08:701][728]LogDeviceProfile: Device profile begin destroy: [00000276377EEA00] iPhone6SPlus
+[2022.08.27-08.10.08:701][728]LogDeviceProfile: Device profile begin destroy: [0000027637B72400] iPhone7Plus
+[2022.08.27-08.10.08:701][728]LogDeviceProfile: Device profile begin destroy: [00000276377ED600] iPhoneSE
+[2022.08.27-08.10.08:701][728]LogDeviceProfile: Device profile begin destroy: [0000027637B70A00] iPhone8
+[2022.08.27-08.10.08:701][728]LogDeviceProfile: Device profile begin destroy: [00000276377EFB00] iPhone8Plus
+[2022.08.27-08.10.08:701][728]LogDeviceProfile: Device profile begin destroy: [0000027637B70500] iPhoneX
+[2022.08.27-08.10.08:701][728]LogDeviceProfile: Device profile begin destroy: [00000276377EF000] iPhoneXS
+[2022.08.27-08.10.08:701][728]LogDeviceProfile: Device profile begin destroy: [0000027637B72C00] iPhoneXSMax
+[2022.08.27-08.10.08:701][728]LogDeviceProfile: Device profile begin destroy: [00000276377ECE00] iPhoneXR
+[2022.08.27-08.10.08:701][728]LogDeviceProfile: Device profile begin destroy: [0000027637B72900] iPhone11
+[2022.08.27-08.10.08:701][728]LogDeviceProfile: Device profile begin destroy: [00000276377ED000] iPhone11Pro
+[2022.08.27-08.10.08:701][728]LogDeviceProfile: Device profile begin destroy: [0000027637B73900] iPhone11ProMax
+[2022.08.27-08.10.08:701][728]LogDeviceProfile: Device profile begin destroy: [00000276377ECA00] iPhoneSE2
+[2022.08.27-08.10.08:701][728]LogDeviceProfile: Device profile begin destroy: [0000027637B70100] iPhone12Mini
+[2022.08.27-08.10.08:701][728]LogDeviceProfile: Device profile begin destroy: [00000276377ED400] iPhone12
+[2022.08.27-08.10.08:701][728]LogDeviceProfile: Device profile begin destroy: [0000027637B70F00] iPhone12Pro
+[2022.08.27-08.10.08:701][728]LogDeviceProfile: Device profile begin destroy: [00000276377EE800] iPhone12ProMax
+[2022.08.27-08.10.08:701][728]LogDeviceProfile: Device profile begin destroy: [0000027637B71300] iPadPro105
+[2022.08.27-08.10.08:701][728]LogDeviceProfile: Device profile begin destroy: [00000276377EDF00] iPadPro129
+[2022.08.27-08.10.08:701][728]LogDeviceProfile: Device profile begin destroy: [0000027637B72100] iPadPro97
+[2022.08.27-08.10.08:701][728]LogDeviceProfile: Device profile begin destroy: [00000276377ED200] iPadPro2_129
+[2022.08.27-08.10.08:701][728]LogDeviceProfile: Device profile begin destroy: [0000027637B72500] iPad5
+[2022.08.27-08.10.08:701][728]LogDeviceProfile: Device profile begin destroy: [00000276377EEE00] iPad6
+[2022.08.27-08.10.08:701][728]LogDeviceProfile: Device profile begin destroy: [0000027637B71900] iPad7
+[2022.08.27-08.10.08:701][728]LogDeviceProfile: Device profile begin destroy: [00000276377ED500] iPad8
+[2022.08.27-08.10.08:701][728]LogDeviceProfile: Device profile begin destroy: [0000027637B70E00] iPadPro11
+[2022.08.27-08.10.08:701][728]LogDeviceProfile: Device profile begin destroy: [00000276377EFA00] iPadPro2_11
+[2022.08.27-08.10.08:701][728]LogDeviceProfile: Device profile begin destroy: [0000027637B73F00] iPadPro3_129
+[2022.08.27-08.10.08:701][728]LogDeviceProfile: Device profile begin destroy: [00000276377EC800] iPadPro4_129
+[2022.08.27-08.10.08:701][728]LogDeviceProfile: Device profile begin destroy: [0000027637B71F00] AppleTV
+[2022.08.27-08.10.08:701][728]LogDeviceProfile: Device profile begin destroy: [00000276377EF900] AppleTV4K
+[2022.08.27-08.10.08:701][728]LogDeviceProfile: Device profile begin destroy: [0000027637B73C00] TVOS
+[2022.08.27-08.10.08:701][728]LogDeviceProfile: Device profile begin destroy: [00000276377EE300] Mac
+[2022.08.27-08.10.08:701][728]LogDeviceProfile: Device profile begin destroy: [0000027637B70B00] MacClient
+[2022.08.27-08.10.08:701][728]LogDeviceProfile: Device profile begin destroy: [00000276377EF700] MacNoEditor
+[2022.08.27-08.10.08:701][728]LogDeviceProfile: Device profile begin destroy: [0000027637B73B00] MacServer
+[2022.08.27-08.10.08:702][728]LogDeviceProfile: Device profile begin destroy: [00000276377ED300] Linux
+[2022.08.27-08.10.08:702][728]LogDeviceProfile: Device profile begin destroy: [0000027637B71B00] LinuxAArch64
+[2022.08.27-08.10.08:702][728]LogDeviceProfile: Device profile begin destroy: [00000276377EE100] LinuxNoEditor
+[2022.08.27-08.10.08:702][728]LogDeviceProfile: Device profile begin destroy: [0000027637B73300] LinuxAArch64NoEditor
+[2022.08.27-08.10.08:702][728]LogDeviceProfile: Device profile begin destroy: [00000276377EE600] LinuxClient
+[2022.08.27-08.10.08:702][728]LogDeviceProfile: Device profile begin destroy: [00000276377EC100] LinuxAArch64Client
+[2022.08.27-08.10.08:702][728]LogDeviceProfile: Device profile begin destroy: [0000027637A96E00] LinuxServer
+[2022.08.27-08.10.08:702][728]LogDeviceProfile: Device profile begin destroy: [0000027637BEC100] LinuxAArch64Server
+[2022.08.27-08.10.08:702][728]LogDeviceProfile: Device profile begin destroy: [0000027637A94700] Android
+[2022.08.27-08.10.08:702][728]LogDeviceProfile: Device profile begin destroy: [0000027637BECC00] Android_Low
+[2022.08.27-08.10.08:702][728]LogDeviceProfile: Device profile begin destroy: [0000027637A97300] Android_Mid
+[2022.08.27-08.10.08:702][728]LogDeviceProfile: Device profile begin destroy: [0000027637BED000] Android_High
+[2022.08.27-08.10.08:702][728]LogDeviceProfile: Device profile begin destroy: [0000027637A94800] Android_Default
+[2022.08.27-08.10.08:702][728]LogDeviceProfile: Device profile begin destroy: [0000027637BEC200] Android_Adreno4xx
+[2022.08.27-08.10.08:702][728]LogDeviceProfile: Device profile begin destroy: [0000027637A95400] Android_Adreno5xx_Low
+[2022.08.27-08.10.08:702][728]LogDeviceProfile: Device profile begin destroy: [0000027637BEC900] Android_Adreno5xx
+[2022.08.27-08.10.08:702][728]LogDeviceProfile: Device profile begin destroy: [0000027637A94E00] Android_Adreno6xx
+[2022.08.27-08.10.08:702][728]LogDeviceProfile: Device profile begin destroy: [0000027637BECD00] Android_Adreno6xx_Vulkan
+[2022.08.27-08.10.08:702][728]LogDeviceProfile: Device profile begin destroy: [0000027637A95200] Android_Mali_T6xx
+[2022.08.27-08.10.08:702][728]LogDeviceProfile: Device profile begin destroy: [0000027637BEC700] Android_Mali_T7xx
+[2022.08.27-08.10.08:702][728]LogDeviceProfile: Device profile begin destroy: [0000027637A96400] Android_Mali_T8xx
+[2022.08.27-08.10.08:702][728]LogDeviceProfile: Device profile begin destroy: [0000027637BEC300] Android_Mali_G71
+[2022.08.27-08.10.08:702][728]LogDeviceProfile: Device profile begin destroy: [0000027637A95900] Android_Mali_G72
+[2022.08.27-08.10.08:702][728]LogDeviceProfile: Device profile begin destroy: [0000027637BEC500] Android_Mali_G72_Vulkan
+[2022.08.27-08.10.08:702][728]LogDeviceProfile: Device profile begin destroy: [0000027637A96B00] Android_Mali_G76
+[2022.08.27-08.10.08:702][728]LogDeviceProfile: Device profile begin destroy: [0000027637BED800] Android_Mali_G76_Vulkan
+[2022.08.27-08.10.08:702][728]LogDeviceProfile: Device profile begin destroy: [0000027637A96300] Android_Mali_G77
+[2022.08.27-08.10.08:702][728]LogDeviceProfile: Device profile begin destroy: [00000276377ED800] Android_Mali_G77_Vulkan
+[2022.08.27-08.10.08:702][728]LogDeviceProfile: Device profile begin destroy: [0000027637B70600] Android_Vulkan_SM5
+[2022.08.27-08.10.08:702][728]LogDeviceProfile: Device profile begin destroy: [00000276377EEF00] Android_PowerVR_G6xxx
+[2022.08.27-08.10.08:702][728]LogDeviceProfile: Device profile begin destroy: [0000027637B71400] Android_PowerVR_GT7xxx
+[2022.08.27-08.10.08:702][728]LogDeviceProfile: Device profile begin destroy: [00000276377EFE00] Android_PowerVR_GE8xxx
+[2022.08.27-08.10.08:702][728]LogDeviceProfile: Device profile begin destroy: [0000027637B72B00] Android_PowerVR_GM9xxx
+[2022.08.27-08.10.08:702][728]LogDeviceProfile: Device profile begin destroy: [00000276377EFC00] Android_PowerVR_GM9xxx_Vulkan
+[2022.08.27-08.10.08:702][728]LogDeviceProfile: Device profile begin destroy: [0000027637B70900] Android_TegraK1
+[2022.08.27-08.10.08:702][728]LogDeviceProfile: Device profile begin destroy: [00000276377EF600] Android_Unknown_Vulkan
+[2022.08.27-08.10.08:702][728]LogDeviceProfile: Device profile begin destroy: [0000027637B72D00] Lumin
+[2022.08.27-08.10.08:702][728]LogDeviceProfile: Device profile begin destroy: [00000276377EF200] Lumin_Desktop
+[2022.08.27-08.10.08:702][728]LogDeviceProfile: Device profile begin destroy: [0000027637B73A00] HoloLens
+[2022.08.27-08.10.08:756][728]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.08.27-08.10.08:756][728]LogExit: Editor shut down
+[2022.08.27-08.10.08:757][728]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2022.08.27-08.10.08:762][728]LogExit: Transaction tracking system shut down
+[2022.08.27-08.10.09:052][728]LogExit: Object subsystem successfully closed.
+[2022.08.27-08.10.09:079][728]LogShaderCompilers: Display: Shaders left to compile 0
+[2022.08.27-08.10.09:086][728]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (816)
+[2022.08.27-08.10.09:086][728]LogModuleManager: Shutting down and abandoning module SceneOutliner (814)
+[2022.08.27-08.10.09:086][728]LogModuleManager: Shutting down and abandoning module AddContentDialog (812)
+[2022.08.27-08.10.09:086][728]LogModuleManager: Shutting down and abandoning module WidgetCarousel (811)
+[2022.08.27-08.10.09:086][728]LogModuleManager: Shutting down and abandoning module EditorWidgets (808)
+[2022.08.27-08.10.09:086][728]LogModuleManager: Shutting down and abandoning module StatsViewer (806)
+[2022.08.27-08.10.09:086][728]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (804)
+[2022.08.27-08.10.09:086][728]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (802)
+[2022.08.27-08.10.09:086][728]LogModuleManager: Shutting down and abandoning module AutomationWorker (800)
+[2022.08.27-08.10.09:086][728]LogModuleManager: Shutting down and abandoning module SteamVREditor (798)
+[2022.08.27-08.10.09:087][728]LogModuleManager: Shutting down and abandoning module OculusMR (796)
+[2022.08.27-08.10.09:087][728]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (794)
+[2022.08.27-08.10.09:087][728]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (792)
+[2022.08.27-08.10.09:087][728]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (790)
+[2022.08.27-08.10.09:087][728]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (788)
+[2022.08.27-08.10.09:087][728]LogModuleManager: Shutting down and abandoning module WebMMedia (786)
+[2022.08.27-08.10.09:087][728]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (784)
+[2022.08.27-08.10.09:087][728]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (782)
+[2022.08.27-08.10.09:087][728]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (780)
+[2022.08.27-08.10.09:087][728]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (778)
+[2022.08.27-08.10.09:087][728]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (776)
+[2022.08.27-08.10.09:087][728]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (774)
+[2022.08.27-08.10.09:087][728]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (772)
+[2022.08.27-08.10.09:087][728]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (770)
+[2022.08.27-08.10.09:087][728]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (768)
+[2022.08.27-08.10.09:087][728]LogModuleManager: Shutting down and abandoning module GooglePADEditor (766)
+[2022.08.27-08.10.09:087][728]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (764)
+[2022.08.27-08.10.09:087][728]LogModuleManager: Shutting down and abandoning module SequenceRecorder (763)
+[2022.08.27-08.10.09:087][728]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (760)
+[2022.08.27-08.10.09:087][728]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (758)
+[2022.08.27-08.10.09:087][728]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (756)
+[2022.08.27-08.10.09:087][728]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (754)
+[2022.08.27-08.10.09:087][728]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (752)
+[2022.08.27-08.10.09:087][728]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (750)
+[2022.08.27-08.10.09:087][728]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (748)
+[2022.08.27-08.10.09:087][728]LogModuleManager: Shutting down and abandoning module PlanarCut (746)
+[2022.08.27-08.10.09:087][728]LogModuleManager: Shutting down and abandoning module CharacterAI (744)
+[2022.08.27-08.10.09:087][728]LogModuleManager: Shutting down and abandoning module TextureAlignMode (742)
+[2022.08.27-08.10.09:087][728]LogModuleManager: Shutting down and abandoning module BspMode (740)
+[2022.08.27-08.10.09:087][728]LogModuleManager: Shutting down and abandoning module GeometryMode (738)
+[2022.08.27-08.10.09:087][728]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (736)
+[2022.08.27-08.10.09:087][728]LogModuleManager: Shutting down and abandoning module SmartSnapping (734)
+[2022.08.27-08.10.09:087][728]LogModuleManager: Shutting down and abandoning module SessionServices (732)
+[2022.08.27-08.10.09:087][728]LogModuleManager: Shutting down and abandoning module MeshPaint (730)
+[2022.08.27-08.10.09:087][728]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (728)
+[2022.08.27-08.10.09:087][728]LogModuleManager: Shutting down and abandoning module FoliageEdit (726)
+[2022.08.27-08.10.09:087][728]LogModuleManager: Shutting down and abandoning module LandscapeEditor (724)
+[2022.08.27-08.10.09:087][728]LogModuleManager: Shutting down and abandoning module MeshPaintMode (722)
+[2022.08.27-08.10.09:087][728]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (720)
+[2022.08.27-08.10.09:087][728]LogModuleManager: Shutting down and abandoning module ActorPickerMode (718)
+[2022.08.27-08.10.09:087][728]LogModuleManager: Shutting down and abandoning module PlacementMode (716)
+[2022.08.27-08.10.09:087][728]LogModuleManager: Shutting down and abandoning module ViewportSnapping (714)
+[2022.08.27-08.10.09:087][728]LogModuleManager: Shutting down and abandoning module ViewportInteraction (712)
+[2022.08.27-08.10.09:087][728]LogModuleManager: Shutting down and abandoning module ClothPainter (710)
+[2022.08.27-08.10.09:087][728]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (709)
+[2022.08.27-08.10.09:087][728]LogModuleManager: Shutting down and abandoning module LogVisualizer (706)
+[2022.08.27-08.10.09:087][728]LogModuleManager: Shutting down and abandoning module IntroTutorials (704)
+[2022.08.27-08.10.09:087][728]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (703)
+[2022.08.27-08.10.09:087][728]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (700)
+[2022.08.27-08.10.09:087][728]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (698)
+[2022.08.27-08.10.09:087][728]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (696)
+[2022.08.27-08.10.09:087][728]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (695)
+[2022.08.27-08.10.09:450][728]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (692)
+[2022.08.27-08.10.09:450][728]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (690)
+[2022.08.27-08.10.09:450][728]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (688)
+[2022.08.27-08.10.09:450][728]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (686)
+[2022.08.27-08.10.09:450][728]LogModuleManager: Shutting down and abandoning module TraceInsights (684)
+[2022.08.27-08.10.09:450][728]MemoryProfiler: Shutdown
+[2022.08.27-08.10.09:450][728]NetworkingProfiler: Shutdown
+[2022.08.27-08.10.09:450][728]LoadingProfiler: Shutdown
+[2022.08.27-08.10.09:450][728]TimingProfiler: Shutdown
+[2022.08.27-08.10.09:450][728]LogModuleManager: Shutting down and abandoning module TraceServices (683)
+[2022.08.27-08.10.09:450][728]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (680)
+[2022.08.27-08.10.09:450][728]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (678)
+[2022.08.27-08.10.09:450][728]LogModuleManager: Shutting down and abandoning module InputBindingEditor (676)
+[2022.08.27-08.10.09:450][728]LogModuleManager: Shutting down and abandoning module MergeActors (674)
+[2022.08.27-08.10.09:451][728]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (672)
+[2022.08.27-08.10.09:451][728]LogModuleManager: Shutting down and abandoning module LocalizationService (671)
+[2022.08.27-08.10.09:451][728]LogModuleManager: Shutting down and abandoning module HardwareTargeting (668)
+[2022.08.27-08.10.09:451][728]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (666)
+[2022.08.27-08.10.09:451][728]LogModuleManager: Shutting down and abandoning module UndoHistory (664)
+[2022.08.27-08.10.09:451][728]LogModuleManager: Shutting down and abandoning module XmlParser (662)
+[2022.08.27-08.10.09:451][728]LogModuleManager: Shutting down and abandoning module Blutility (660)
+[2022.08.27-08.10.09:451][728]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (658)
+[2022.08.27-08.10.09:451][728]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (657)
+[2022.08.27-08.10.09:451][728]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (654)
+[2022.08.27-08.10.09:451][728]LogModuleManager: Shutting down and abandoning module InternationalizationSettings (653)
+[2022.08.27-08.10.09:451][728]LogModuleManager: Shutting down and abandoning module SettingsEditor (650)
+[2022.08.27-08.10.09:451][728]LogModuleManager: Shutting down and abandoning module ProjectLauncher (648)
+[2022.08.27-08.10.09:451][728]LogModuleManager: Shutting down and abandoning module SessionFrontend (646)
+[2022.08.27-08.10.09:451][728]LogModuleManager: Shutting down and abandoning module ProfilerClient (644)
+[2022.08.27-08.10.09:451][728]LogModuleManager: Shutting down and abandoning module DeviceManager (642)
+[2022.08.27-08.10.09:451][728]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (641)
+[2022.08.27-08.10.09:484][728]LogModuleManager: Shutting down and abandoning module AutomationController (638)
+[2022.08.27-08.10.09:484][728]LogModuleManager: Shutting down and abandoning module AutomationWindow (636)
+[2022.08.27-08.10.09:484][728]LogModuleManager: Shutting down and abandoning module Layers (634)
+[2022.08.27-08.10.09:484][728]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (632)
+[2022.08.27-08.10.09:484][728]LogModuleManager: Shutting down and abandoning module DetailCustomizations (630)
+[2022.08.27-08.10.09:484][728]LogModuleManager: Shutting down and abandoning module PackagesDialog (628)
+[2022.08.27-08.10.09:484][728]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (626)
+[2022.08.27-08.10.09:484][728]LogModuleManager: Shutting down and abandoning module Persona (624)
+[2022.08.27-08.10.09:484][728]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (623)
+[2022.08.27-08.10.09:484][728]LogModuleManager: Shutting down and abandoning module AnimGraph (621)
+[2022.08.27-08.10.09:484][728]LogModuleManager: Shutting down and abandoning module Kismet (618)
+[2022.08.27-08.10.09:486][728]LogModuleManager: Shutting down and abandoning module KismetWidgets (617)
+[2022.08.27-08.10.09:486][728]LogModuleManager: Shutting down and abandoning module GraphEditor (614)
+[2022.08.27-08.10.09:486][728]LogModuleManager: Shutting down and abandoning module StructViewer (612)
+[2022.08.27-08.10.09:486][728]LogModuleManager: Shutting down and abandoning module ClassViewer (610)
+[2022.08.27-08.10.09:486][728]LogModuleManager: Shutting down and abandoning module Toolbox (608)
+[2022.08.27-08.10.09:486][728]LogModuleManager: Shutting down and abandoning module ModuleUI (606)
+[2022.08.27-08.10.09:486][728]LogModuleManager: Shutting down and abandoning module OutputLog (604)
+[2022.08.27-08.10.09:486][728]LogModuleManager: Shutting down and abandoning module GammaUI (602)
+[2022.08.27-08.10.09:486][728]LogModuleManager: Shutting down and abandoning module Documentation (600)
+[2022.08.27-08.10.09:486][728]LogModuleManager: Shutting down and abandoning module LiveCoding (598)
+[2022.08.27-08.10.09:486][728]LogModuleManager: Shutting down and abandoning module LevelSequence (596)
+[2022.08.27-08.10.09:486][728]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (594)
+[2022.08.27-08.10.09:486][728]LogModuleManager: Shutting down and abandoning module MovieScene (592)
+[2022.08.27-08.10.09:486][728]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (590)
+[2022.08.27-08.10.09:486][728]LogModuleManager: Shutting down and abandoning module LauncherPlatform (588)
+[2022.08.27-08.10.09:486][728]LogModuleManager: Shutting down and abandoning module AnalyticsET (586)
+[2022.08.27-08.10.09:486][728]LogModuleManager: Shutting down and abandoning module PortalServices (584)
+[2022.08.27-08.10.09:486][728]LogModuleManager: Shutting down and abandoning module PortalRpc (582)
+[2022.08.27-08.10.09:486][728]LogModuleManager: Shutting down and abandoning module MessagingRpc (580)
+[2022.08.27-08.10.09:486][728]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (578)
+[2022.08.27-08.10.09:486][728]LogModuleManager: Shutting down and abandoning module AudioMixerCore (577)
+[2022.08.27-08.10.09:486][728]LogModuleManager: Shutting down and abandoning module AIModule (574)
+[2022.08.27-08.10.09:486][728]LogModuleManager: Shutting down and abandoning module GameplayDebugger (573)
+[2022.08.27-08.10.09:486][728]LogModuleManager: Shutting down and abandoning module AITestSuite (571)
+[2022.08.27-08.10.09:486][728]LogModuleManager: Shutting down and abandoning module NavigationSystem (569)
+[2022.08.27-08.10.09:486][728]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (566)
+[2022.08.27-08.10.09:491][728]LogModuleManager: Shutting down and abandoning module ProfilerService (564)
+[2022.08.27-08.10.09:537][728]LogModuleManager: Shutting down and abandoning module TaskGraph (562)
+[2022.08.27-08.10.09:537][728]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaEditor (560)
+[2022.08.27-08.10.09:537][728]LogModuleManager: Shutting down and abandoning module OculusEditor (558)
+[2022.08.27-08.10.09:537][728]LogModuleManager: Shutting down and abandoning module OculusInput (556)
+[2022.08.27-08.10.09:537][728]LogModuleManager: Shutting down and abandoning module ContentBrowserClassDataSource (554)
+[2022.08.27-08.10.09:537][728]LogModuleManager: Shutting down and abandoning module ContentBrowserAssetDataSource (552)
+[2022.08.27-08.10.09:537][728]LogModuleManager: Shutting down and abandoning module CollectionManager (551)
+[2022.08.27-08.10.09:538][728]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (548)
+[2022.08.27-08.10.09:538][728]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (546)
+[2022.08.27-08.10.09:538][728]LogModuleManager: Shutting down and abandoning module UObjectPlugin (544)
+[2022.08.27-08.10.09:538][728]LogModuleManager: Shutting down and abandoning module MediaCompositing (542)
+[2022.08.27-08.10.09:538][728]LogModuleManager: Shutting down and abandoning module ImgMedia (540)
+[2022.08.27-08.10.09:539][728]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (538)
+[2022.08.27-08.10.09:539][728]LogModuleManager: Shutting down and abandoning module RiderSourceCodeAccess (536)
+[2022.08.27-08.10.09:539][728]LogModuleManager: Shutting down and abandoning module PluginUtils (534)
+[2022.08.27-08.10.09:539][728]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (532)
+[2022.08.27-08.10.09:539][728]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (530)
+[2022.08.27-08.10.09:539][728]LogModuleManager: Shutting down and abandoning module GitSourceControl (528)
+[2022.08.27-08.10.09:539][728]LogModuleManager: Shutting down and abandoning module SourceControl (527)
+[2022.08.27-08.10.09:539][728]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (524)
+[2022.08.27-08.10.09:539][728]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (522)
+[2022.08.27-08.10.09:539][728]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (520)
+[2022.08.27-08.10.09:539][728]LogModuleManager: Shutting down and abandoning module SynthesisEditor (518)
+[2022.08.27-08.10.09:539][728]LogModuleManager: Shutting down and abandoning module Synthesis (516)
+[2022.08.27-08.10.09:539][728]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (514)
+[2022.08.27-08.10.09:539][728]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (512)
+[2022.08.27-08.10.09:540][728]LogModuleManager: Shutting down and abandoning module ScreenshotTools (510)
+[2022.08.27-08.10.09:540][728]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (508)
+[2022.08.27-08.10.09:540][728]LogModuleManager: Shutting down and abandoning module GooglePAD (506)
+[2022.08.27-08.10.09:540][728]LogModuleManager: Shutting down and abandoning module EditableMesh (504)
+[2022.08.27-08.10.09:540][728]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (502)
+[2022.08.27-08.10.09:540][728]LogModuleManager: Shutting down and abandoning module CableComponent (500)
+[2022.08.27-08.10.09:540][728]LogModuleManager: Shutting down and abandoning module AudioCapture (498)
+[2022.08.27-08.10.09:540][728]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (497)
+[2022.08.27-08.10.09:540][728]LogModuleManager: Shutting down and abandoning module AssetTags (494)
+[2022.08.27-08.10.09:540][728]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (492)
+[2022.08.27-08.10.09:540][728]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (490)
+[2022.08.27-08.10.09:540][728]LogModuleManager: Shutting down and abandoning module AppleImageUtils (488)
+[2022.08.27-08.10.09:540][728]LogModuleManager: Shutting down and abandoning module AndroidPermission (486)
+[2022.08.27-08.10.09:540][728]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (484)
+[2022.08.27-08.10.09:540][728]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (482)
+[2022.08.27-08.10.09:540][728]LogModuleManager: Shutting down and abandoning module TemplateSequence (480)
+[2022.08.27-08.10.09:540][728]LogModuleManager: Shutting down and abandoning module NiagaraEditorWidgets (478)
+[2022.08.27-08.10.09:541][728]LogModuleManager: Shutting down and abandoning module MagicLeapSharedWorld (476)
+[2022.08.27-08.10.09:541][728]LogModuleManager: Shutting down and abandoning module MagicLeapLightEstimation (474)
+[2022.08.27-08.10.09:541][728]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (472)
+[2022.08.27-08.10.09:541][728]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (470)
+[2022.08.27-08.10.09:541][728]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (468)
+[2022.08.27-08.10.09:541][728]LogModuleManager: Shutting down and abandoning module MotoSynthEditor (466)
+[2022.08.27-08.10.09:541][728]LogModuleManager: Shutting down and abandoning module MotoSynth (464)
+[2022.08.27-08.10.09:541][728]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (462)
+[2022.08.27-08.10.09:541][728]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (460)
+[2022.08.27-08.10.09:541][728]LogModuleManager: Shutting down and abandoning module GeometryCacheStreamer (458)
+[2022.08.27-08.10.09:541][728]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (456)
+[2022.08.27-08.10.09:541][728]LogModuleManager: Shutting down and abandoning module MeshConversion (454)
+[2022.08.27-08.10.09:541][728]LogModuleManager: Shutting down and abandoning module DynamicMesh (452)
+[2022.08.27-08.10.09:541][728]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (450)
+[2022.08.27-08.10.09:541][728]LogModuleManager: Shutting down and abandoning module GeometricObjects (448)
+[2022.08.27-08.10.09:541][728]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (446)
+[2022.08.27-08.10.09:541][728]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (445)
+[2022.08.27-08.10.09:541][728]LogModuleManager: Shutting down and abandoning module GeometryCollectionEditor (442)
+[2022.08.27-08.10.09:541][728]LogModuleManager: Shutting down and abandoning module ChaosSolverEditor (440)
+[2022.08.27-08.10.09:541][728]LogModuleManager: Shutting down and abandoning module ChaosNiagara (438)
+[2022.08.27-08.10.09:542][728]LogModuleManager: Shutting down and abandoning module FractureEditor (436)
+[2022.08.27-08.10.09:542][728]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (435)
+[2022.08.27-08.10.09:542][728]LogModuleManager: Shutting down and abandoning module ChaosClothEditor (432)
+[2022.08.27-08.10.09:542][728]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (430)
+[2022.08.27-08.10.09:542][728]LogModuleManager: Shutting down and abandoning module AutomationUtils (428)
+[2022.08.27-08.10.09:542][728]LogModuleManager: Shutting down and abandoning module BackChannel (426)
+[2022.08.27-08.10.09:542][728]LogModuleManager: Shutting down and abandoning module AlembicImporter (424)
+[2022.08.27-08.10.09:542][728]LogModuleManager: Shutting down and abandoning module AlembicLibrary (423)
+[2022.08.27-08.10.09:542][728]LogModuleManager: Shutting down and abandoning module GeometryCache (422)
+[2022.08.27-08.10.09:542][728]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (421)
+[2022.08.27-08.10.09:542][728]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (416)
+[2022.08.27-08.10.09:542][728]LogModuleManager: Shutting down and abandoning module PluginBrowser (414)
+[2022.08.27-08.10.09:542][728]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (412)
+[2022.08.27-08.10.09:542][728]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (410)
+[2022.08.27-08.10.09:542][728]LogModuleManager: Shutting down and abandoning module CurveEditorTools (408)
+[2022.08.27-08.10.09:542][728]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (406)
+[2022.08.27-08.10.09:542][728]LogModuleManager: Shutting down and abandoning module CryptoKeys (404)
+[2022.08.27-08.10.09:542][728]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (402)
+[2022.08.27-08.10.09:542][728]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (400)
+[2022.08.27-08.10.09:543][728]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (398)
+[2022.08.27-08.10.09:543][728]LogModuleManager: Shutting down and abandoning module Paper2DEditor (396)
+[2022.08.27-08.10.09:543][728]LogModuleManager: Shutting down and abandoning module MeshPaintingToolset (394)
+[2022.08.27-08.10.09:543][728]LogModuleManager: Shutting down and abandoning module MeshPaintEditorMode (392)
+[2022.08.27-08.10.09:543][728]LogModuleManager: Shutting down and abandoning module PropertyAccessNode (390)
+[2022.08.27-08.10.09:543][728]LogModuleManager: Shutting down and abandoning module AnimationSharing (388)
+[2022.08.27-08.10.09:543][728]LogModuleManager: Shutting down and abandoning module SoundFields (386)
+[2022.08.27-08.10.09:543][728]LogModuleManager: Shutting down and abandoning module SignificanceManager (384)
+[2022.08.27-08.10.09:543][728]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (382)
+[2022.08.27-08.10.09:543][728]LogModuleManager: Shutting down and abandoning module PropertyAccessEditor (380)
+[2022.08.27-08.10.09:543][728]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (378)
+[2022.08.27-08.10.09:543][728]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (374)
+[2022.08.27-08.10.09:543][728]LogModuleManager: Shutting down and abandoning module AudioSynesthesia (372)
+[2022.08.27-08.10.09:543][728]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaCore (370)
+[2022.08.27-08.10.09:543][728]LogModuleManager: Shutting down and abandoning module UdpMessaging (368)
+[2022.08.27-08.10.09:645][728]LogModuleManager: Shutting down and abandoning module TcpMessaging (366)
+[2022.08.27-08.10.09:746][728]LogModuleManager: Shutting down and abandoning module ActorSequence (364)
+[2022.08.27-08.10.09:746][728]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (362)
+[2022.08.27-08.10.09:746][728]LogModuleManager: Shutting down and abandoning module Niagara (360)
+[2022.08.27-08.10.09:746][728]LogModuleManager: Shutting down and abandoning module SignalProcessing (359)
+[2022.08.27-08.10.09:746][728]LogModuleManager: Shutting down and abandoning module NiagaraEditor (357)
+[2022.08.27-08.10.09:747][728]LogModuleManager: Shutting down and abandoning module NiagaraCore (354)
+[2022.08.27-08.10.09:747][728]LogModuleManager: Shutting down and abandoning module MagicLeapARPin (352)
+[2022.08.27-08.10.09:747][728]LogModuleManager: Shutting down and abandoning module MagicLeapHandMeshing (350)
+[2022.08.27-08.10.09:747][728]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (348)
+[2022.08.27-08.10.09:747][728]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (346)
+[2022.08.27-08.10.09:747][728]LogModuleManager: Shutting down and abandoning module MagicLeapPlanes (344)
+[2022.08.27-08.10.09:747][728]LogMagicLeapPlanes: Planes tracker already destroyed.
+[2022.08.27-08.10.09:747][728]LogModuleManager: Shutting down and abandoning module MagicLeapImageTracker (342)
+[2022.08.27-08.10.09:747][728]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (340)
+[2022.08.27-08.10.09:747][728]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (338)
+[2022.08.27-08.10.09:747][728]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (336)
+[2022.08.27-08.10.09:747][728]LogModuleManager: Shutting down and abandoning module MagicLeapController (334)
+[2022.08.27-08.10.09:747][728]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2022.08.27-08.10.09:747][728]LogModuleManager: Shutting down and abandoning module MagicLeapARPinImpl (332)
+[2022.08.27-08.10.09:747][728]LogModuleManager: Shutting down and abandoning module MagicLeapAR (330)
+[2022.08.27-08.10.09:748][728]LogModuleManager: Shutting down and abandoning module AugmentedReality (329)
+[2022.08.27-08.10.09:748][728]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (326)
+[2022.08.27-08.10.09:748][728]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (324)
+[2022.08.27-08.10.09:748][728]LogModuleManager: Shutting down and abandoning module FacialAnimation (322)
+[2022.08.27-08.10.09:748][728]LogModuleManager: Shutting down and abandoning module DataValidation (320)
+[2022.08.27-08.10.09:748][728]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (318)
+[2022.08.27-08.10.09:748][728]LogModuleManager: Shutting down and abandoning module LevelEditor (317)
+[2022.08.27-08.10.09:750][728]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (316)
+[2022.08.27-08.10.09:750][728]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (314)
+[2022.08.27-08.10.09:750][728]LogModuleManager: Shutting down and abandoning module MainFrame (312)
+[2022.08.27-08.10.09:750][728]LogModuleManager: Shutting down and abandoning module HotReload (311)
+[2022.08.27-08.10.09:751][728]LogModuleManager: Shutting down and abandoning module ToolMenus (307)
+[2022.08.27-08.10.09:751][728]LogModuleManager: Shutting down and abandoning module ContentBrowser (305)
+[2022.08.27-08.10.09:751][728]LogModuleManager: Shutting down and abandoning module ContentBrowserData (304)
+[2022.08.27-08.10.09:751][728]LogModuleManager: Shutting down and abandoning module TreeMap (301)
+[2022.08.27-08.10.09:751][728]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (298)
+[2022.08.27-08.10.09:751][728]LogModuleManager: Shutting down and abandoning module EnvironmentQueryEditor (296)
+[2022.08.27-08.10.09:751][728]LogModuleManager: Shutting down and abandoning module Paper2D (294)
+[2022.08.27-08.10.09:751][728]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (292)
+[2022.08.27-08.10.09:752][728]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (290)
+[2022.08.27-08.10.09:752][728]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (288)
+[2022.08.27-08.10.09:752][728]LogModuleManager: Shutting down and abandoning module PacketHandler (286)
+[2022.08.27-08.10.09:752][728]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (284)
+[2022.08.27-08.10.09:752][728]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (282)
+[2022.08.27-08.10.09:752][728]LogModuleManager: Shutting down and abandoning module MediaAssets (280)
+[2022.08.27-08.10.09:752][728]LogModuleManager: Shutting down and abandoning module Overlay (278)
+[2022.08.27-08.10.09:752][728]LogModuleManager: Shutting down and abandoning module OverlayEditor (277)
+[2022.08.27-08.10.09:752][728]LogModuleManager: Shutting down and abandoning module VREditor (274)
+[2022.08.27-08.10.09:752][728]LogModuleManager: Shutting down and abandoning module StringTableEditor (272)
+[2022.08.27-08.10.09:752][728]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (270)
+[2022.08.27-08.10.09:752][728]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (268)
+[2022.08.27-08.10.09:752][728]LogModuleManager: Shutting down and abandoning module FunctionalTesting (266)
+[2022.08.27-08.10.09:752][728]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (264)
+[2022.08.27-08.10.09:752][728]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (263)
+[2022.08.27-08.10.09:752][728]LogModuleManager: Shutting down and abandoning module UMG (260)
+[2022.08.27-08.10.09:752][728]LogModuleManager: Shutting down and abandoning module UMGEditor (259)
+[2022.08.27-08.10.09:752][728]LogModuleManager: Shutting down and abandoning module MessageLog (257)
+[2022.08.27-08.10.09:752][728]LogModuleManager: Shutting down and abandoning module SlateReflector (252)
+[2022.08.27-08.10.09:752][728]LogModuleManager: Shutting down and abandoning module Slate (250)
+[2022.08.27-08.10.09:752][728]LogModuleManager: Shutting down and abandoning module SlateCore (248)
+[2022.08.27-08.10.09:753][728]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (246)
+[2022.08.27-08.10.09:753][728]LogModuleManager: Shutting down and abandoning module UnrealEd (244)
+[2022.08.27-08.10.09:753][728]LogModuleManager: Shutting down and abandoning module MRMesh (242)
+[2022.08.27-08.10.09:753][728]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (240)
+[2022.08.27-08.10.09:753][728]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (238)
+[2022.08.27-08.10.09:753][728]LogModuleManager: Shutting down and abandoning module XAudio2 (236)
+[2022.08.27-08.10.09:753][728]LogModuleManager: Shutting down and abandoning module Networking (234)
+[2022.08.27-08.10.09:753][728]LogModuleManager: Shutting down and abandoning module Core (232)
+[2022.08.27-08.10.09:753][728]LogModuleManager: Shutting down and abandoning module MaterialEditor (230)
+[2022.08.27-08.10.09:753][728]LogModuleManager: Shutting down and abandoning module MovieSceneTools (228)
+[2022.08.27-08.10.09:753][728]LogModuleManager: Shutting down and abandoning module CurveEditor (227)
+[2022.08.27-08.10.09:753][728]LogModuleManager: Shutting down and abandoning module Sequencer (225)
+[2022.08.27-08.10.09:753][728]LogModuleManager: Shutting down and abandoning module EditorStyle (224)
+[2022.08.27-08.10.09:754][728]LogModuleManager: Shutting down and abandoning module KismetCompiler (220)
+[2022.08.27-08.10.09:754][728]LogModuleManager: Shutting down and abandoning module MeshBuilder (218)
+[2022.08.27-08.10.09:754][728]LogModuleManager: Shutting down and abandoning module MeshUtilities (216)
+[2022.08.27-08.10.09:754][728]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (215)
+[2022.08.27-08.10.09:754][728]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (214)
+[2022.08.27-08.10.09:754][728]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (213)
+[2022.08.27-08.10.09:754][728]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (211)
+[2022.08.27-08.10.09:754][728]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (209)
+[2022.08.27-08.10.09:754][728]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (207)
+[2022.08.27-08.10.09:754][728]LogModuleManager: Shutting down and abandoning module MaterialBaking (203)
+[2022.08.27-08.10.09:754][728]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (198)
+[2022.08.27-08.10.09:754][728]LogModuleManager: Shutting down and abandoning module DerivedDataCache (196)
+[2022.08.27-08.10.09:754][728]LogModuleManager: Shutting down and abandoning module TargetPlatform (194)
+[2022.08.27-08.10.09:754][728]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (193)
+[2022.08.27-08.10.09:754][728]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (191)
+[2022.08.27-08.10.09:754][728]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (189)
+[2022.08.27-08.10.09:754][728]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (187)
+[2022.08.27-08.10.09:754][728]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (185)
+[2022.08.27-08.10.09:754][728]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (183)
+[2022.08.27-08.10.09:754][728]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (181)
+[2022.08.27-08.10.09:754][728]LogModuleManager: Shutting down and abandoning module TextureFormatETC2 (179)
+[2022.08.27-08.10.09:754][728]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (177)
+[2022.08.27-08.10.09:754][728]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (175)
+[2022.08.27-08.10.09:754][728]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (173)
+[2022.08.27-08.10.09:754][728]LogModuleManager: Shutting down and abandoning module ImageWrapper (172)
+[2022.08.27-08.10.09:754][728]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (169)
+[2022.08.27-08.10.09:754][728]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (167)
+[2022.08.27-08.10.09:754][728]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (165)
+[2022.08.27-08.10.09:754][728]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (163)
+[2022.08.27-08.10.09:754][728]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (161)
+[2022.08.27-08.10.09:754][728]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (159)
+[2022.08.27-08.10.09:754][728]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (157)
+[2022.08.27-08.10.09:754][728]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (155)
+[2022.08.27-08.10.09:755][728]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (153)
+[2022.08.27-08.10.09:755][728]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (151)
+[2022.08.27-08.10.09:755][728]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (149)
+[2022.08.27-08.10.09:755][728]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (147)
+[2022.08.27-08.10.09:755][728]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (145)
+[2022.08.27-08.10.09:755][728]LogModuleManager: Shutting down and abandoning module LinuxAArch64ServerTargetPlatform (143)
+[2022.08.27-08.10.09:755][728]LogModuleManager: Shutting down and abandoning module LinuxAArch64ClientTargetPlatform (141)
+[2022.08.27-08.10.09:755][728]LogModuleManager: Shutting down and abandoning module LinuxAArch64NoEditorTargetPlatform (139)
+[2022.08.27-08.10.09:755][728]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (137)
+[2022.08.27-08.10.09:755][728]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (135)
+[2022.08.27-08.10.09:755][728]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (133)
+[2022.08.27-08.10.09:755][728]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (131)
+[2022.08.27-08.10.09:755][728]LogModuleManager: Shutting down and abandoning module Messaging (129)
+[2022.08.27-08.10.09:755][728]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (127)
+[2022.08.27-08.10.09:756][728]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (125)
+[2022.08.27-08.10.09:758][728]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (123)
+[2022.08.27-08.10.09:758][728]LogModuleManager: Shutting down and abandoning module InputCore (120)
+[2022.08.27-08.10.09:758][728]LogModuleManager: Shutting down and abandoning module Settings (118)
+[2022.08.27-08.10.09:758][728]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (116)
+[2022.08.27-08.10.09:758][728]LogModuleManager: Shutting down and abandoning module PhysXCooking (114)
+[2022.08.27-08.10.09:758][728]LogModuleManager: Shutting down and abandoning module Chaos (112)
+[2022.08.27-08.10.09:758][728]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (110)
+[2022.08.27-08.10.09:759][728]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (109)
+[2022.08.27-08.10.09:759][728]LogModuleManager: Shutting down and abandoning module AVEncoder (108)
+[2022.08.27-08.10.09:759][728]LogModuleManager: Shutting down and abandoning module SteamVRInputDevice (104)
+[2022.08.27-08.10.09:759][728]LogModuleManager: Shutting down and abandoning module SteamVRInput (102)
+[2022.08.27-08.10.09:759][728]LogModuleManager: Shutting down and abandoning module SteamVR (100)
+[2022.08.27-08.10.09:759][728]LogHMD: Freeing OpenVRDLLHandle.
+[2022.08.27-08.10.09:759][728]LogModuleManager: Shutting down and abandoning module OculusHMD (98)
+[2022.08.27-08.10.09:759][728]LogModuleManager: Shutting down and abandoning module WmfMedia (96)
+[2022.08.27-08.10.09:760][728]LogModuleManager: Shutting down and abandoning module Media (95)
+[2022.08.27-08.10.09:761][728]LogModuleManager: Shutting down and abandoning module MediaInfo (94)
+[2022.08.27-08.10.09:761][728]LogModuleManager: Shutting down and abandoning module ExrReaderGpu (90)
+[2022.08.27-08.10.09:761][728]LogModuleManager: Shutting down and abandoning module VariantManagerContent (88)
+[2022.08.27-08.10.09:761][728]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (86)
+[2022.08.27-08.10.09:761][728]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (82)
+[2022.08.27-08.10.09:761][728]LogModuleManager: Shutting down and abandoning module XMPP (77)
+[2022.08.27-08.10.09:761][728]LogModuleManager: Shutting down and abandoning module WebSockets (76)
+[2022.08.27-08.10.09:792][728]LogModuleManager: Shutting down and abandoning module HTTP (73)
+[2022.08.27-08.10.09:792][728]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2022.08.27-08.10.09:792][728]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B59842441-48B5-365D-B94E-8A9F8D48B67B%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.2-15973114%2B%2B%2BUE4%2BRelease-4.26&UserID=7eb9051a43e11d83ec77da85d8b5976f%7C080e2ce9a4d247a48731939dc96d0bbe%7Cf3796e37-3db4-474c-9618-c3dfe518af6e&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[1] status=Processing
+[2022.08.27-08.10.09:792][728]LogHttp: Display: cleaning up 1 outstanding Http requests.
+[2022.08.27-08.10.09:803][728]LogModuleManager: Shutting down and abandoning module SSL (72)
+[2022.08.27-08.10.09:805][728]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (68)
+[2022.08.27-08.10.09:805][728]LogModuleManager: Shutting down and abandoning module ChunkDownloader (66)
+[2022.08.27-08.10.09:805][728]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (64)
+[2022.08.27-08.10.09:805][728]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (62)
+[2022.08.27-08.10.09:805][728]LogModuleManager: Shutting down and abandoning module NiagaraShader (60)
+[2022.08.27-08.10.09:805][728]LogModuleManager: Shutting down and abandoning module MLSDK (58)
+[2022.08.27-08.10.09:805][728]LogModuleManager: Shutting down and abandoning module MagicLeap (56)
+[2022.08.27-08.10.09:805][728]LogModuleManager: Shutting down and abandoning module DatasmithContent (54)
+[2022.08.27-08.10.09:805][728]LogModuleManager: Shutting down and abandoning module ChaosCloth (52)
+[2022.08.27-08.10.09:805][728]LogModuleManager: Shutting down and abandoning module AISupportModule (50)
+[2022.08.27-08.10.09:805][728]LogModuleManager: Shutting down and abandoning module DesktopPlatform (48)
+[2022.08.27-08.10.09:805][728]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (46)
+[2022.08.27-08.10.09:805][728]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (44)
+[2022.08.27-08.10.09:805][728]LogModuleManager: Shutting down and abandoning module PlatformCrypto (42)
+[2022.08.27-08.10.09:805][728]LogModuleManager: Shutting down and abandoning module XGEController (40)
+[2022.08.27-08.10.09:805][728]LogXGEController: Cleaning working directory: C:/Users/leo_n/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2022.08.27-08.10.09:805][728]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2022.08.27-08.10.09:805][728]LogModuleManager: Shutting down and abandoning module AudioEditor (36)
+[2022.08.27-08.10.09:806][728]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2022.08.27-08.10.09:806][728]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2022.08.27-08.10.09:806][728]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2022.08.27-08.10.09:806][728]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2022.08.27-08.10.09:806][728]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2022.08.27-08.10.09:806][728]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2022.08.27-08.10.09:806][728]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2022.08.27-08.10.09:806][728]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2022.08.27-08.10.09:806][728]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2022.08.27-08.10.09:806][728]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2022.08.27-08.10.09:806][728]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2022.08.27-08.10.09:806][728]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2022.08.27-08.10.09:806][728]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2022.08.27-08.10.09:806][728]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2022.08.27-08.10.09:806][728]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2022.08.27-08.10.09:806][728]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2022.08.27-08.10.09:806][728]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2022.08.27-08.10.10:204][728]LogContentStreaming: Display: There are 1 unreleased StreamingManagers
+[2022.08.27-08.10.10:205][728]LogD3D11RHI: Shutdown
+[2022.08.27-08.10.10:206][728]LogD3D11RHI: CleanupD3DDevice
+[2022.08.27-08.10.10:222][728]LogExit: Exiting.
+[2022.08.27-08.10.10:234][728]Log file closed, 08/27/22 10:10:10
