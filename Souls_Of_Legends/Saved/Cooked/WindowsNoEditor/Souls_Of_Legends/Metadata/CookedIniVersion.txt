@@ -1792,6 +1792,7 @@ Windows.Input:/Script/Engine.InputSettings:ActionMappings:22=(ActionName="attack
 Windows.Input:/Script/Engine.InputSettings:ActionMappings:23=(ActionName="sprint",bShift=False,bCtrl=False,bAlt=False,bCmd=False,Key=LeftShift)
 Windows.Input:/Script/Engine.InputSettings:ActionMappings:24=(ActionName="lock-on",bShift=False,bCtrl=False,bAlt=False,bCmd=False,Key=Tab)
 Windows.Input:/Script/Engine.InputSettings:ActionMappings:25=(ActionName="block",bShift=False,bCtrl=False,bAlt=False,bCmd=False,Key=RightMouseButton)
+Windows.Input:/Script/Engine.InputSettings:ActionMappings:26=(ActionName="pause",bShift=False,bCtrl=False,bAlt=False,bCmd=False,Key=Escape)
 Windows.Input:/Script/Engine.InputSettings:AxisMappings:0=(AxisName="MoveForward",Scale=1.000000,Key=W)
 Windows.Input:/Script/Engine.InputSettings:AxisMappings:1=(AxisName="MoveForward",Scale=-1.000000,Key=S)
 Windows.Input:/Script/Engine.InputSettings:AxisMappings:2=(AxisName="MoveForward",Scale=1.000000,Key=Up)

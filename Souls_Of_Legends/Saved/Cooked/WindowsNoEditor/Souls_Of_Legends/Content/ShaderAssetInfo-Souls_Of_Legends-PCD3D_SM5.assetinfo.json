@@ -297,15 +297,15 @@
 			]
 		},
 		{
-			"ShaderMapHash": "207A3F174F818821F4ACD45B247EA1511298FDD3",
-			"Assets": [
-				"../../../../../Unreal Projects/Souls of Legends/Souls-of-Legends/Souls_Of_Legends/Content/Fiddlesticks/Blueprint/Drain_Attack/drain_mat.uasset"
-			]
-		},
-		{
 			"ShaderMapHash": "C6D54895B9E1281698413E9BC3833382FE29DC21",
 			"Assets": [
 				"../../../../../Unreal Projects/Souls of Legends/Souls-of-Legends/Souls_Of_Legends/Content/Assets/Geometry/Meshes/CubeMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "207A3F174F818821F4ACD45B247EA1511298FDD3",
+			"Assets": [
+				"../../../../../Unreal Projects/Souls of Legends/Souls-of-Legends/Souls_Of_Legends/Content/Fiddlesticks/Blueprint/Drain_Attack/drain_mat.uasset"
 			]
 		},
 		{
@@ -365,6 +365,12 @@
 			"ShaderMapHash": "1F1F33AEF21DE44FB823D8A6DCA3F2B18727C5F3",
 			"Assets": [
 				"../../../../../Unreal Projects/Souls of Legends/Souls-of-Legends/Souls_Of_Legends/Content/MP_Assets/IB_GrassLands/Environments/Plains/Env_Plains_Ruins/Materials/M_Plains_Pillars.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "18A225AE50137053FDD8302E41CC4D01EB575103",
+			"Assets": [
+				"../../../../../Unreal Projects/Souls of Legends/Souls-of-Legends/Souls_Of_Legends/Content/MP_Assets/IB_GrassLands/Environments/Plains/Env_Plains_Flora/Materials/M_PLains_Fern01.uasset"
 			]
 		},
 		{
@@ -479,90 +485,6 @@
 			"ShaderMapHash": "4FE3282AB0F6C2789225C1FD03EF54E56158CD16",
 			"Assets": [
 				"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "18A225AE50137053FDD8302E41CC4D01EB575103",
-			"Assets": [
-				"../../../../../Unreal Projects/Souls of Legends/Souls-of-Legends/Souls_Of_Legends/Content/MP_Assets/IB_GrassLands/Environments/Plains/Env_Plains_Flora/Materials/M_PLains_Fern01.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "1F50C05C09A2E83257010B93662F36A1D7586D7B",
-			"Assets": [
-				"../../../../../Unreal Projects/Souls of Legends/Souls-of-Legends/Souls_Of_Legends/Content/StarterContent/Props/Materials/M_Frame.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "B377F2C466685D8337499DEB2ADC1465F3B5A0F1",
-			"Assets": [
-				"../../../../../Unreal Projects/Souls of Legends/Souls-of-Legends/Souls_Of_Legends/Content/StarterContent/Materials/M_Glass.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "5BB37DAD771291E33FAE924B1A7598B6CD5D0580",
-			"Assets": [
-				"../../../../../Unreal Projects/Souls of Legends/Souls-of-Legends/Souls_Of_Legends/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "5EBD21CA1F39FA1FA02DEF349FEDA14BF73B3CE5",
-			"Assets": [
-				"../../../../../Unreal Projects/Souls of Legends/Souls-of-Legends/Souls_Of_Legends/Content/StarterContent/Materials/M_Wood_Walnut.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "A117C7B87E28982B2B7748403CF78CB2A469DB47",
-			"Assets": [
-				"../../../../../Unreal Projects/Souls of Legends/Souls-of-Legends/Souls_Of_Legends/Content/StarterContent/Materials/M_Wood_Pine.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "CA043011157D3F0E5F3B4FCE1F0A4C84C560655E",
-			"Assets": [
-				"../../../../../Unreal Projects/Souls of Legends/Souls-of-Legends/Souls_Of_Legends/Content/StarterContent/Materials/M_Wood_Oak.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "5ABD78BA44D1E298C35E2A3BF1F8F3EACB327EE2",
-			"Assets": [
-				"../../../../../Unreal Projects/Souls of Legends/Souls-of-Legends/Souls_Of_Legends/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "44ED270A4214EA2432ECBB32DA9FB374AC10D1F6",
-			"Assets": [
-				"../../../../../Unreal Projects/Souls of Legends/Souls-of-Legends/Souls_Of_Legends/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "4509EE43CC23F1709AEA93F311A873BBE0109CB6",
-			"Assets": [
-				"../../../../../Unreal Projects/Souls of Legends/Souls-of-Legends/Souls_Of_Legends/Content/StarterContent/Materials/M_Water_Ocean.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "4879F215DA09F64BFFA6FC802CA362C9C9BC3DF6",
-			"Assets": [
-				"../../../../../Unreal Projects/Souls of Legends/Souls-of-Legends/Souls_Of_Legends/Content/StarterContent/Materials/M_Water_Lake.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "DD0DB34222B3D5F9997B7B7FB6C9CFB8E4FF516F",
-			"Assets": [
-				"../../../../../Unreal Projects/Souls of Legends/Souls-of-Legends/Souls_Of_Legends/Content/StarterContent/Materials/M_Tech_Panel.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "E40FBC0160D2B45CB2B96AA25F2A6F0A533CB413",
-			"Assets": [
-				"../../../../../Unreal Projects/Souls of Legends/Souls-of-Legends/Souls_Of_Legends/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "9764E3011D5F4472F5095EEA14B3DA6D6067BD44",
-			"Assets": [
-				"../../../../../Unreal Projects/Souls of Legends/Souls-of-Legends/Souls_Of_Legends/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset"
 			]
 		},
 		{
@@ -776,6 +698,84 @@
 			]
 		},
 		{
+			"ShaderMapHash": "1F50C05C09A2E83257010B93662F36A1D7586D7B",
+			"Assets": [
+				"../../../../../Unreal Projects/Souls of Legends/Souls-of-Legends/Souls_Of_Legends/Content/StarterContent/Props/Materials/M_Frame.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "B377F2C466685D8337499DEB2ADC1465F3B5A0F1",
+			"Assets": [
+				"../../../../../Unreal Projects/Souls of Legends/Souls-of-Legends/Souls_Of_Legends/Content/StarterContent/Materials/M_Glass.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "5BB37DAD771291E33FAE924B1A7598B6CD5D0580",
+			"Assets": [
+				"../../../../../Unreal Projects/Souls of Legends/Souls-of-Legends/Souls_Of_Legends/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "5EBD21CA1F39FA1FA02DEF349FEDA14BF73B3CE5",
+			"Assets": [
+				"../../../../../Unreal Projects/Souls of Legends/Souls-of-Legends/Souls_Of_Legends/Content/StarterContent/Materials/M_Wood_Walnut.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "A117C7B87E28982B2B7748403CF78CB2A469DB47",
+			"Assets": [
+				"../../../../../Unreal Projects/Souls of Legends/Souls-of-Legends/Souls_Of_Legends/Content/StarterContent/Materials/M_Wood_Pine.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "CA043011157D3F0E5F3B4FCE1F0A4C84C560655E",
+			"Assets": [
+				"../../../../../Unreal Projects/Souls of Legends/Souls-of-Legends/Souls_Of_Legends/Content/StarterContent/Materials/M_Wood_Oak.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "5ABD78BA44D1E298C35E2A3BF1F8F3EACB327EE2",
+			"Assets": [
+				"../../../../../Unreal Projects/Souls of Legends/Souls-of-Legends/Souls_Of_Legends/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "44ED270A4214EA2432ECBB32DA9FB374AC10D1F6",
+			"Assets": [
+				"../../../../../Unreal Projects/Souls of Legends/Souls-of-Legends/Souls_Of_Legends/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "4509EE43CC23F1709AEA93F311A873BBE0109CB6",
+			"Assets": [
+				"../../../../../Unreal Projects/Souls of Legends/Souls-of-Legends/Souls_Of_Legends/Content/StarterContent/Materials/M_Water_Ocean.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "4879F215DA09F64BFFA6FC802CA362C9C9BC3DF6",
+			"Assets": [
+				"../../../../../Unreal Projects/Souls of Legends/Souls-of-Legends/Souls_Of_Legends/Content/StarterContent/Materials/M_Water_Lake.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "DD0DB34222B3D5F9997B7B7FB6C9CFB8E4FF516F",
+			"Assets": [
+				"../../../../../Unreal Projects/Souls of Legends/Souls-of-Legends/Souls_Of_Legends/Content/StarterContent/Materials/M_Tech_Panel.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "E40FBC0160D2B45CB2B96AA25F2A6F0A533CB413",
+			"Assets": [
+				"../../../../../Unreal Projects/Souls of Legends/Souls-of-Legends/Souls_Of_Legends/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "9764E3011D5F4472F5095EEA14B3DA6D6067BD44",
+			"Assets": [
+				"../../../../../Unreal Projects/Souls of Legends/Souls-of-Legends/Souls_Of_Legends/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset"
+			]
+		},
+		{
 			"ShaderMapHash": "AC6FC85D8C66AE35DE3F1483E30BE5D69DA3689A",
 			"Assets": [
 				"../../../../../Unreal Projects/Souls of Legends/Souls-of-Legends/Souls_Of_Legends/Content/StarterContent/Materials/M_Basic_Floor.uasset"
@@ -962,6 +962,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "4D8D1C5AF03B276EB230C90482115F8AB1284D07",
+			"Assets": [
+				"../../../../../Unreal Projects/Souls of Legends/Souls-of-Legends/Souls_Of_Legends/Content/MP_Assets/IB_GrassLands/Environments/Plains/Env_Plains_Organic/Materials/M_Plains_Cliff1.uasset"
+			]
+		},
+		{
 			"ShaderMapHash": "7A22BCFB0A5973E0BB38F66C9E141C297DEBB2B4",
 			"Assets": [
 				"../../../../../Unreal Projects/Souls of Legends/Souls-of-Legends/Souls_Of_Legends/Content/MP_Assets/IB_GrassLands/Environments/Plains/Env_Plains_Flora/Materials/M_Plains_Tree_Stump01.uasset"
@@ -996,12 +1002,6 @@
 			"ShaderMapHash": "2C2F07D4F704FA5F928ECDD57E71FB50CE21A24C",
 			"Assets": [
 				"../../../../../Unreal Projects/Souls of Legends/Souls-of-Legends/Souls_Of_Legends/Content/MP_Assets/IB_GrassLands/Environments/Breakables/Materials/M_Breakables_Barrels.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "4D8D1C5AF03B276EB230C90482115F8AB1284D07",
-			"Assets": [
-				"../../../../../Unreal Projects/Souls of Legends/Souls-of-Legends/Souls_Of_Legends/Content/MP_Assets/IB_GrassLands/Environments/Plains/Env_Plains_Organic/Materials/M_Plains_Cliff1.uasset"
 			]
 		},
 		{
@@ -1071,15 +1071,15 @@
 			]
 		},
 		{
-			"ShaderMapHash": "98A88E46338DD1990466D883007BBB0CC4AF8EED",
-			"Assets": [
-				"../../../../../Unreal Projects/Souls of Legends/Souls-of-Legends/Souls_Of_Legends/Content/MP_Assets/GreenwoodFantasyVillage/Materials/MasterMaterials/M_WaterRiver.uasset"
-			]
-		},
-		{
 			"ShaderMapHash": "396E035FFB8DF64B979C5C7A48AC75B83AF95A79",
 			"Assets": [
 				"../../../../../Unreal Projects/Souls of Legends/Souls-of-Legends/Souls_Of_Legends/Content/MP_Assets/GreenwoodFantasyVillage/Materials/MasterMaterials/M_Opaque_DitheredLOD.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "98A88E46338DD1990466D883007BBB0CC4AF8EED",
+			"Assets": [
+				"../../../../../Unreal Projects/Souls of Legends/Souls-of-Legends/Souls_Of_Legends/Content/MP_Assets/GreenwoodFantasyVillage/Materials/MasterMaterials/M_WaterRiver.uasset"
 			]
 		},
 		{
@@ -1101,16 +1101,16 @@
 			]
 		},
 		{
-			"ShaderMapHash": "1F64FDEB5DD684A355AE1B423405028ACF0A076B",
-			"Assets": [
-				"../../../../../Unreal Projects/Souls of Legends/Souls-of-Legends/Souls_Of_Legends/Content/MP_Assets/GKnight/Materials/M_env.uasset"
-			]
-		},
-		{
 			"ShaderMapHash": "584D4779EBD72904FAD7FC4886E61E2FF36AE4C7",
 			"Assets": [
 				"../../../../../Unreal Projects/Souls of Legends/Souls-of-Legends/Souls_Of_Legends/Content/MP_Assets/GKnight/Materials/MI_GKnightCape.uasset",
 				"../../../../../Unreal Projects/Souls of Legends/Souls-of-Legends/Souls_Of_Legends/Content/MP_Assets/GKnight/Materials/CustomizationExample/MI_GKnightCape.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "1F64FDEB5DD684A355AE1B423405028ACF0A076B",
+			"Assets": [
+				"../../../../../Unreal Projects/Souls of Legends/Souls-of-Legends/Souls_Of_Legends/Content/MP_Assets/GKnight/Materials/M_env.uasset"
 			]
 		},
 		{
@@ -1208,18 +1208,12 @@
 			]
 		},
 		{
-			"ShaderMapHash": "DA59E3F9447EC65312D6D854FE96C3EC75CF2113",
-			"Assets": [
-				"../../../../../Unreal Projects/Souls of Legends/Souls-of-Legends/Souls_Of_Legends/Content/Animations/BossyEnemy/Materials/M_Floor.uasset"
-			]
-		},
-		{
 			"ShaderMapHash": "5A0BC7AD83F40EBDA903D52167D2644A53CEE9FE",
 			"Assets": [
-				"../../../../../Unreal Projects/Souls of Legends/Souls-of-Legends/Souls_Of_Legends/Content/Animations/BossyEnemy/Materials/MaterialInstanceDynamic_2.uasset",
 				"../../../../../Unreal Projects/Souls of Legends/Souls-of-Legends/Souls_Of_Legends/Content/Animations/BossyEnemy/Materials/MaterialInstanceDynamic_3.uasset",
 				"../../../../../Unreal Projects/Souls of Legends/Souls-of-Legends/Souls_Of_Legends/Content/Animations/BossyEnemy/Materials/MaterialInstanceDynamic_0.uasset",
-				"../../../../../Unreal Projects/Souls of Legends/Souls-of-Legends/Souls_Of_Legends/Content/Animations/BossyEnemy/Materials/MaterialInstanceDynamic_1.uasset"
+				"../../../../../Unreal Projects/Souls of Legends/Souls-of-Legends/Souls_Of_Legends/Content/Animations/BossyEnemy/Materials/MaterialInstanceDynamic_1.uasset",
+				"../../../../../Unreal Projects/Souls of Legends/Souls-of-Legends/Souls_Of_Legends/Content/Animations/BossyEnemy/Materials/MaterialInstanceDynamic_2.uasset"
 			]
 		},
 		{
@@ -1232,6 +1226,12 @@
 			"ShaderMapHash": "C66310B05BBDC7FD66FB4E7272FC70AC445CA829",
 			"Assets": [
 				"../../../../../Unreal Projects/Souls of Legends/Souls-of-Legends/Souls_Of_Legends/Content/Animations/BossyEnemy/Materials/M_UE4Man_ChestLogo.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "DA59E3F9447EC65312D6D854FE96C3EC75CF2113",
+			"Assets": [
+				"../../../../../Unreal Projects/Souls of Legends/Souls-of-Legends/Souls_Of_Legends/Content/Animations/BossyEnemy/Materials/M_Floor.uasset"
 			]
 		},
 		{
